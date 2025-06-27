@@ -1,2 +1,2 @@
-# SkyBlockMDarkRP
-SkyBlockMDarkRP
+# SkyBlockMDDM
+SkyBlockMDDM
