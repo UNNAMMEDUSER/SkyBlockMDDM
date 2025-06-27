@@ -1,0 +1,8 @@
+{
+	"credit": "TENAR",
+	"parent": "electricity:block/blast_furnace",
+	"textures": {
+		"0": "electricity:block/blast_furnace_on",
+		"particle": "electricity:block/blast_furnace_on"
+	}
+}

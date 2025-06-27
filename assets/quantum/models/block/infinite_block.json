@@ -1,0 +1,7 @@
+{
+    "credit": "levnemcev",
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "quantum:block/infinite_block"
+    }
+}

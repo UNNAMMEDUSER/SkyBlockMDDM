@@ -1,0 +1,8 @@
+{
+	"credit": "Miwo4ka",
+	"parent": "electricity:block/blast_furnace/coil/kanthal_full",
+	"textures": {
+		"0": "electricity:block/blast_furnace/coil/kanthal_full_on",
+		"particle": "electricity:block/blast_furnace/coil/kanthal_full_on"
+	}
+}

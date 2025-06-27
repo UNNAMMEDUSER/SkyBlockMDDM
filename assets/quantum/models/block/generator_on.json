@@ -1,0 +1,8 @@
+{
+	"credit": "levnemcev",
+	"parent": "quantum:block/generator",
+	"textures": {
+		"0": "quantum:block/generator_on",
+		"particle": "quantum:block/generator_on"
+	}
+}

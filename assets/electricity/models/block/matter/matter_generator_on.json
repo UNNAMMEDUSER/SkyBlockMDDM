@@ -1,0 +1,8 @@
+{
+	"credit": "levnemcev",
+	"parent": "electricity:block/matter/matter_generator",
+	"textures": {
+		"0": "electricity:block/matter/matter_generator_on",
+		"particle": "electricity:block/matter/matter_generator_on"
+	}
+}

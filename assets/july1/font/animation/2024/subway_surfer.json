@@ -1,0 +1,363 @@
+{
+  "providers": [
+	{
+      "type": "space",
+      "advances": {
+        "": -1024,
+        "": -512,
+        "": -256,
+        "": -128,
+        "": -64,
+        "": -32,
+        "": -16,
+        "": -8,
+        "": -7,
+        "": -6,
+        "": -5,
+        "": -4,
+        "": -3,
+        "": -2,
+        "": -1,
+        "": 1,
+        "": 2,
+        "": 3,
+        "": 4,
+        "": 5,
+        "": 6,
+        "": 7,
+        "": 8,
+        "": 16,
+        "": 32,
+        "": 64,
+        "": 128,
+        "": 256,
+        "": 512,
+        "": 1024
+      }
+    },
+    {
+      "type": "bitmap",
+      "file": "july1:animation/2024/subway_surfer/0.png",
+      "ascent": -119,
+      "height": 11,
+      "chars": [
+        "က"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "july1:animation/2024/subway_surfer/1.png",
+      "ascent": -119,
+      "height": 11,
+      "chars": [
+        "ခ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "july1:animation/2024/subway_surfer/2.png",
+      "ascent": -119,
+      "height": 11,
+      "chars": [
+        "ဂ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "july1:animation/2024/subway_surfer/3.png",
+      "ascent": -119,
+      "height": 11,
+      "chars": [
+        "ဃ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "july1:animation/2024/subway_surfer/4.png",
+      "ascent": -119,
+      "height": 11,
+      "chars": [
+        "င"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "july1:animation/2024/subway_surfer/5.png",
+      "ascent": -119,
+      "height": 11,
+      "chars": [
+        "စ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "july1:animation/2024/subway_surfer/6.png",
+      "ascent": -130,
+      "height": 11,
+      "chars": [
+        "ဆ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "july1:animation/2024/subway_surfer/7.png",
+      "ascent": -130,
+      "height": 11,
+      "chars": [
+        "ဇ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "july1:animation/2024/subway_surfer/8.png",
+      "ascent": -130,
+      "height": 11,
+      "chars": [
+        "ဈ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "july1:animation/2024/subway_surfer/9.png",
+      "ascent": -130,
+      "height": 11,
+      "chars": [
+        "ဉ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "july1:animation/2024/subway_surfer/10.png",
+      "ascent": -130,
+      "height": 11,
+      "chars": [
+        "ည"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "july1:animation/2024/subway_surfer/11.png",
+      "ascent": -130,
+      "height": 11,
+      "chars": [
+        "ဋ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "july1:animation/2024/subway_surfer/12.png",
+      "ascent": -141,
+      "height": 11,
+      "chars": [
+        "ဌ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "july1:animation/2024/subway_surfer/13.png",
+      "ascent": -141,
+      "height": 11,
+      "chars": [
+        "ဍ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "july1:animation/2024/subway_surfer/14.png",
+      "ascent": -141,
+      "height": 11,
+      "chars": [
+        "ဎ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "july1:animation/2024/subway_surfer/15.png",
+      "ascent": -141,
+      "height": 11,
+      "chars": [
+        "ဏ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "july1:animation/2024/subway_surfer/16.png",
+      "ascent": -141,
+      "height": 11,
+      "chars": [
+        "တ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "july1:animation/2024/subway_surfer/17.png",
+      "ascent": -141,
+      "height": 11,
+      "chars": [
+        "ထ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "july1:animation/2024/subway_surfer/18.png",
+      "ascent": -152,
+      "height": 11,
+      "chars": [
+        "ဒ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "july1:animation/2024/subway_surfer/19.png",
+      "ascent": -152,
+      "height": 11,
+      "chars": [
+        "ဓ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "july1:animation/2024/subway_surfer/20.png",
+      "ascent": -152,
+      "height": 11,
+      "chars": [
+        "န"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "july1:animation/2024/subway_surfer/21.png",
+      "ascent": -152,
+      "height": 11,
+      "chars": [
+        "ပ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "july1:animation/2024/subway_surfer/22.png",
+      "ascent": -152,
+      "height": 11,
+      "chars": [
+        "ဖ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "july1:animation/2024/subway_surfer/23.png",
+      "ascent": -152,
+      "height": 11,
+      "chars": [
+        "ဗ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "july1:animation/2024/subway_surfer/24.png",
+      "ascent": -163,
+      "height": 11,
+      "chars": [
+        "ဘ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "july1:animation/2024/subway_surfer/25.png",
+      "ascent": -163,
+      "height": 11,
+      "chars": [
+        "မ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "july1:animation/2024/subway_surfer/26.png",
+      "ascent": -163,
+      "height": 11,
+      "chars": [
+        "ယ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "july1:animation/2024/subway_surfer/27.png",
+      "ascent": -163,
+      "height": 11,
+      "chars": [
+        "ရ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "july1:animation/2024/subway_surfer/28.png",
+      "ascent": -163,
+      "height": 11,
+      "chars": [
+        "လ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "july1:animation/2024/subway_surfer/29.png",
+      "ascent": -163,
+      "height": 11,
+      "chars": [
+        "ဝ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "july1:animation/2024/subway_surfer/30.png",
+      "ascent": -174,
+      "height": 11,
+      "chars": [
+        "သ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "july1:animation/2024/subway_surfer/31.png",
+      "ascent": -174,
+      "height": 11,
+      "chars": [
+        "ဟ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "july1:animation/2024/subway_surfer/32.png",
+      "ascent": -174,
+      "height": 11,
+      "chars": [
+        "ဠ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "july1:animation/2024/subway_surfer/33.png",
+      "ascent": -174,
+      "height": 11,
+      "chars": [
+        "အ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "july1:animation/2024/subway_surfer/34.png",
+      "ascent": -174,
+      "height": 11,
+      "chars": [
+        "ဢ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "july1:animation/2024/subway_surfer/35.png",
+      "ascent": -174,
+      "height": 11,
+      "chars": [
+        "ဣ"
+      ]
+    }
+  ]
+}

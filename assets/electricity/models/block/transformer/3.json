@@ -1,0 +1,9 @@
+{
+	"credit": "Dareda",
+	"parent": "electricity:block/transformer/1",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "electricity:block/transformer/3",
+		"particle": "electricity:block/transformer/3"
+	}
+}

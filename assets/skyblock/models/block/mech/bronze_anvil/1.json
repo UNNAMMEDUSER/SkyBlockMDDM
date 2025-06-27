@@ -1,0 +1,6 @@
+{
+	"parent": "skyblock:block/mech/bronze_anvil/0",
+	"textures": {
+		"0": "skyblock:block/mech/bronze_anvil/1"
+	}
+}

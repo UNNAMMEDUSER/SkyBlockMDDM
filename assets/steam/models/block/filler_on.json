@@ -1,0 +1,8 @@
+{
+	"credit": "levnemcev",
+	"parent": "steam:block/filler",
+	"textures": {
+		"0": "steam:block/filler_on",
+		"particle": "steam:block/filler_on"
+	}
+}

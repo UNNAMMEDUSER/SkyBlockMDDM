@@ -1,0 +1,14 @@
+{
+    "providers": [
+      {
+        "type": "bitmap",
+        "file": "chat:background/donate/space_animated.png",
+        "ascent": 7,
+        "height": 8,
+        "chars": [
+          "\u1000"
+        ]
+      }
+    ]
+  }
+  

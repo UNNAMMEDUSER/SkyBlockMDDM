@@ -1,0 +1,8 @@
+{
+	"credit": "levnemcev",
+	"parent": "steam:block/condenser",
+	"textures": {
+		"0": "steam:block/condenser_on",
+		"particle": "steam:block/condenser_on"
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"credit": "levnemcev",
+	"parent": "electric_storage:block/monitor/unlocked/south",
+	"textures": {
+		"0": "electric_storage:block/monitor/unlocked_rainbow",
+		"1": "electric_storage:block/monitor/unlocked_rainbow_overlay",
+		"particle": "electric_storage:block/monitor/unlocked_rainbow_overlay"
+	}
+}

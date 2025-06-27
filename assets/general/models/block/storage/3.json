@@ -1,0 +1,8 @@
+{
+	"credit": "levnemcev",
+	"parent": "general:block/storage/1",
+	"textures": {
+		"0": "general:block/storage/3",
+		"particle": "general:block/storage/3"
+	}
+}

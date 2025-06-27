@@ -1,0 +1,6 @@
+{
+  "providers": [
+    { "type": "bitmap", "file": "july1:gui/2024/yandex_courier_station.png", "ascent": 19, "height": 256, "chars": [ "\u0001" ] },
+    { "type": "bitmap", "file": "july1:gui/2024/meat_grinder.png", "ascent": 19, "height": 256, "chars": [ "\u0002" ] }
+  ]
+}

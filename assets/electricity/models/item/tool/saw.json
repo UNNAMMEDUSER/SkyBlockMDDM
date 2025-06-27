@@ -1,0 +1,40 @@
+{
+	"credit": "levnemcev",
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "electricity:item/tool/saw"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [43.5, 90, 0],
+			"translation": [0, 2.5, -0.75],
+			"scale": [1.7, 1.7, 0.85]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [43.5, -90, 0],
+			"translation": [0, 2.5, -0.75],
+			"scale": [1.7, 1.7, 0.85]
+		},
+		"firstperson_righthand": {
+			"rotation": [150.25, 82.25, -155],
+			"translation": [-0.62, 5.2, 2.13],
+			"scale": [1.36, 1.36, 0.68]
+		},
+		"firstperson_lefthand": {
+			"rotation": [150.25, -82.25, 155],
+			"translation": [-0.62, 5.2, 2.13],
+			"scale": [1.36, 1.36, 0.68]
+		},
+		"ground": {
+			"scale": [1, 1, 0.5]
+		},
+		"gui": {
+			"translation": [-0.75, 2, 0],
+			"scale": [2, 2, 1]
+		},
+		"fixed": {
+			"translation": [-1.5, 1.75, 0],
+			"scale": [2, 2, 1]
+		}
+	}
+}

@@ -1,0 +1,7 @@
+{
+	"parent": "electric_storage:block/controller",
+	"textures": {
+		"1": "electric_storage:block/controller_on",
+		"particle": "electric_storage:block/controller_on"
+	}
+}

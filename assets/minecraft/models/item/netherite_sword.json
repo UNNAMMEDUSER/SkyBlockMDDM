@@ -1,0 +1,29 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "minecraft:item/netherite_sword"
+    },
+    "overrides": [
+        { "predicate": { "custom_model_data": 200 }, "model": "electricity:item/tool/nano_saber" },
+        { "predicate": { "custom_model_data": 201 }, "model": "electricity:item/tool/nano_saber_on" },
+
+        { "predicate": { "custom_model_data": 1000100 }, "model": "customization:item/sword/sculk" },
+        { "predicate": { "custom_model_data": 1000101 }, "model": "customization:item/sword/amethyst" },
+        { "predicate": { "custom_model_data": 1000102 }, "model": "customization:item/sword/mossy" },
+
+        { "predicate": { "custom_model_data": 1001000 }, "model": "customization:item/nano_saber/yellow_laser_sword" },
+        { "predicate": { "custom_model_data": 1001001 }, "model": "customization:item/nano_saber/yellow_laser_sword_on" },
+        { "predicate": { "custom_model_data": 1001002 }, "model": "customization:item/nano_saber/blue_laser_sword" },
+        { "predicate": { "custom_model_data": 1001003 }, "model": "customization:item/nano_saber/blue_laser_sword_on" },
+        { "predicate": { "custom_model_data": 1001004 }, "model": "customization:item/nano_saber/red_laser_sword" },
+        { "predicate": { "custom_model_data": 1001005 }, "model": "customization:item/nano_saber/red_laser_sword_on" },
+
+        { "predicate": { "custom_model_data": 1001200 }, "model": "customization:item/nano_saber/cursed_saber" },
+        { "predicate": { "custom_model_data": 1001201 }, "model": "customization:item/nano_saber/cursed_saber_on" },
+
+        { "predicate": { "custom_model_data": 1001300 }, "model": "customization:item/nano_saber/steampunk_saber" },
+        { "predicate": { "custom_model_data": 1001301 }, "model": "customization:item/nano_saber/steampunk_saber_on" },
+        { "predicate": { "custom_model_data": 1001302 }, "model": "customization:item/nano_saber/uranium" },
+        { "predicate": { "custom_model_data": 1001303 }, "model": "customization:item/nano_saber/uranium_on" }
+    ]
+}

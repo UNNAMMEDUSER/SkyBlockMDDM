@@ -1,0 +1,23 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "minecraft:item/wooden_pickaxe"
+    },
+    "overrides": [
+        { "predicate": { "custom_model_data": 100 }, "model": "skyblock:item/hammer/wooden" },
+
+
+        { "predicate": { "custom_model_data": 1000000 }, "model": "customization:item/pickaxe/evacuation_plan" },
+        { "predicate": { "custom_model_data": 1000001 }, "model": "customization:item/pickaxe/ice_breaker" },
+
+        { "predicate": { "custom_model_data": 1000100 }, "model": "customization:item/pickaxe/sculk" },
+        { "predicate": { "custom_model_data": 1000101 }, "model": "customization:item/pickaxe/amethyst" },
+        { "predicate": { "custom_model_data": 1000102 }, "model": "customization:item/pickaxe/mossy" },
+
+        { "predicate": { "custom_model_data": 1001000 }, "model": "customization:item/hammer/disconnector" },
+
+        { "predicate": { "custom_model_data": 1001100 }, "model": "customization:item/hammer/sculk" },
+        { "predicate": { "custom_model_data": 1001101 }, "model": "customization:item/hammer/amethyst" },
+        { "predicate": { "custom_model_data": 1001102 }, "model": "customization:item/hammer/mossy" }
+    ]
+}

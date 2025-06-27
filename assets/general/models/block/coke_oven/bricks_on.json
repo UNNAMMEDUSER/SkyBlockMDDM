@@ -1,0 +1,7 @@
+{
+	"parent": "general:block/coke_oven/bricks",
+	"textures": {
+		"1": "general:block/coke_oven/bricks_on",
+		"particle": "general:block/coke_oven/bricks_on"
+	}
+}

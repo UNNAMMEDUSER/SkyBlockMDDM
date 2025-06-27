@@ -1,0 +1,7 @@
+{
+	"credit": "Dareda",
+	"parent": "electricity:block/metal_molder",
+	"textures": {
+		"0": "electricity:block/metal_molder_on"
+	}
+}

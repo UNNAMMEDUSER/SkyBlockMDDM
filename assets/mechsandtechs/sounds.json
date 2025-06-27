@@ -1,0 +1,20 @@
+{
+    "wrench.use": {
+        "subtitle": "Использован гаечный ключ",
+        "replace": false,
+        "sounds": [
+            {
+                "name": "mechsandtechs:wrench/use"
+            }
+        ]
+    },
+	"wrench.destroy": {
+        "subtitle": "Использован гаечный ключ",
+        "replace": false,
+        "sounds": [
+            {
+                "name": "mechsandtechs:wrench/destroy"
+            }
+        ]
+    }
+}

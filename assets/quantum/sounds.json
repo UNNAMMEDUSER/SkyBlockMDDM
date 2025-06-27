@@ -1,0 +1,17 @@
+{
+    "block.electric_singularity_block.work": {
+        "subtitle": "Блок сингулярности работает",
+        "replace": false,
+        "sounds": [
+            {
+                "name": "quantum:electric_singularity_block/1"
+            },
+            {
+                "name": "quantum:electric_singularity_block/2"
+            },
+            {
+                "name": "quantum:electric_singularity_block/3"
+            }
+        ]
+    }
+}

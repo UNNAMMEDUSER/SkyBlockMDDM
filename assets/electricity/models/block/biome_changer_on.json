@@ -1,0 +1,9 @@
+{
+	"credit": "Dareda",
+    "parent": "electricity:block/biome_changer",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "electricity:block/biome_changer_on",
+		"particle": "electricity:block/biome_changer_on"
+	}
+}

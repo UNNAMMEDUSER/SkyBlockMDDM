@@ -1,0 +1,8 @@
+{
+	"credit": "levnemcev",
+	"parent": "electricity:block/condenser",
+	"textures": {
+		"0": "electricity:block/condenser_on",
+		"particle": "electricity:block/condenser_on"
+	}
+}

@@ -1,0 +1,18 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "minecraft:item/netherite_scrap"
+    },
+    "overrides": [
+        { "predicate": { "custom_model_data": 1000 }, "model": "mechsandtechs:block/destroy_stage/0" },
+        { "predicate": { "custom_model_data": 1001 }, "model": "mechsandtechs:block/destroy_stage/1" },
+        { "predicate": { "custom_model_data": 1002 }, "model": "mechsandtechs:block/destroy_stage/2" },
+        { "predicate": { "custom_model_data": 1003 }, "model": "mechsandtechs:block/destroy_stage/3" },
+        { "predicate": { "custom_model_data": 1004 }, "model": "mechsandtechs:block/destroy_stage/4" },
+        { "predicate": { "custom_model_data": 1005 }, "model": "mechsandtechs:block/destroy_stage/5" },
+        { "predicate": { "custom_model_data": 1006 }, "model": "mechsandtechs:block/destroy_stage/6" },
+        { "predicate": { "custom_model_data": 1007 }, "model": "mechsandtechs:block/destroy_stage/7" },
+        { "predicate": { "custom_model_data": 1008 }, "model": "mechsandtechs:block/destroy_stage/8" },
+        { "predicate": { "custom_model_data": 1009 }, "model": "mechsandtechs:block/destroy_stage/9" }
+    ]
+}

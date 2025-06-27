@@ -1,0 +1,8 @@
+{
+	"credit": "Dareda",
+    "parent": "electricity:block/water_pump/0",
+	"textures": {
+        "1": "electricity:block/water_pump/4",
+		"particle": "electricity:block/water_pump/4"
+	}
+}

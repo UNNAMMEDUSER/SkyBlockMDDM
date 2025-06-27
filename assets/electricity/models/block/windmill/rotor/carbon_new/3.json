@@ -1,0 +1,8 @@
+{
+	"credit": "Made by levnemcev",
+	"parent": "electricity:block/windmill/rotor/carbon/0",
+	"textures": {
+		"0": "electricity:block/windmill/rotor/carbon/3",
+		"particle": "electricity:block/windmill/rotor/carbon/3"
+	}
+}

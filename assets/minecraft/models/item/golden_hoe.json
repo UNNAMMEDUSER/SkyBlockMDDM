@@ -1,0 +1,11 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "minecraft:item/golden_hoe"
+    },
+    "overrides": [
+        { "predicate": { "custom_model_data": 200 }, "model": "electricity:item/tool/iridium/hoe" },
+
+        { "predicate": { "custom_model_data": 300 }, "model": "bees:item/bronze_knife" }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "minecraft:item/stone_hoe"
+    },
+    "overrides": [
+        { "predicate": { "custom_model_data": 100 }, "model": "general:item/sledgehammer/stone" }
+    ]
+}

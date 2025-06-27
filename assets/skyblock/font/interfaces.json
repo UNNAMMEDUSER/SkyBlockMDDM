@@ -1,0 +1,19 @@
+{
+  "providers": [
+    { "type": "bitmap", "file": "skyblock:gui/pulverizer.png", "ascent": 19, "height": 256, "chars": [ "\u0001" ] },
+
+    { "type": "bitmap", "file": "skyblock:gui/island/create.png", "ascent": 19, "height": 256, "chars": [ "\u0100" ] },
+    { "type": "bitmap", "file": "skyblock:gui/island/main.png", "ascent": 19, "height": 256, "chars": [ "\u0101" ] },
+    { "type": "bitmap", "file": "skyblock:gui/island/owner.png", "ascent": 19, "height": 256, "chars": [ "\u0102" ] },
+    { "type": "bitmap", "file": "skyblock:gui/island/members.png", "ascent": 19, "height": 256, "chars": [ "\u0103" ] },
+    { "type": "bitmap", "file": "skyblock:gui/island/experience.png", "ascent": 19, "height": 256, "chars": [ "\u0104" ] },
+    { "type": "bitmap", "file": "skyblock:gui/island/allowed_interactions.png", "ascent": 19, "height": 256, "chars": [ "\u0105" ] },
+    { "type": "bitmap", "file": "skyblock:gui/island/top.png", "ascent": 19, "height": 256, "chars": [ "\u0106" ] },
+    { "type": "bitmap", "file": "skyblock:gui/island/limits.png", "ascent": 19, "height": 256, "chars": [ "\u0107" ] },
+
+    { "type": "bitmap", "file": "skyblock:gui/shop/admin/all_items.png", "ascent": 19, "height": 256, "chars": [ "\u0200" ] },
+    { "type": "bitmap", "file": "skyblock:gui/shop/admin/edit_item.png", "ascent": 19, "height": 256, "chars": [ "\u0201" ] },
+
+    { "type": "bitmap", "file": "skyblock:gui/shop/shop.png", "ascent": 19, "height": 256, "chars": [ "\u0210" ] }
+  ]
+}

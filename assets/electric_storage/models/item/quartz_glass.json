@@ -1,0 +1,6 @@
+{
+	"parent": "block/cube_all",
+	"textures": {
+		"all": "electric_storage:block/quartz_glass"
+	}
+}

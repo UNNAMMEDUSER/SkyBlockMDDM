@@ -1,0 +1,12 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "minecraft:item/iron_shovel"
+    },
+    "overrides": [
+        { "predicate": { "custom_model_data": 100 }, "model": "skyblock:item/hammer/iron" },
+        { "predicate": { "custom_model_data": 101 }, "model": "skyblock:item/hammer/bronze" },
+
+        { "predicate": { "custom_model_data": 110 }, "model": "general:item/resource/bronze/shovel" }
+    ]
+}

@@ -1,0 +1,7 @@
+{
+	"credit": "levnemcev",
+	"parent": "electricity:block/overclock_mech",
+	"textures": {
+		"0": "electricity:block/hammer"
+	}
+}

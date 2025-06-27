@@ -1,0 +1,117 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/iron_horse_armor"
+  },
+  "overrides": [
+    { "predicate": { "custom_model_data": 100 }, "model": "general:item/module/empty" },
+    { "predicate": { "custom_model_data": 101 }, "model": "general:item/module/universal" },
+
+    { "predicate": { "custom_model_data": 110 }, "model": "general:item/module/redstone_clock/1" },
+    { "predicate": { "custom_model_data": 111 }, "model": "general:item/module/redstone_clock/2" },
+    { "predicate": { "custom_model_data": 112 }, "model": "general:item/module/redstone_clock/3" },
+
+    { "predicate": { "custom_model_data": 120 }, "model": "general:item/module/redstone_trigger" },
+    
+    { "predicate": { "custom_model_data": 130 }, "model": "general:item/module/hopper/in" },
+    { "predicate": { "custom_model_data": 131 }, "model": "general:item/module/hopper/out" },
+
+    { "predicate": { "custom_model_data": 140 }, "model": "general:item/module/acceleration/1" },
+    { "predicate": { "custom_model_data": 141 }, "model": "general:item/module/acceleration/2" },
+    { "predicate": { "custom_model_data": 142 }, "model": "general:item/module/acceleration/3" },
+    { "predicate": { "custom_model_data": 143 }, "model": "general:item/module/acceleration/4" },
+
+    { "predicate": { "custom_model_data": 150 }, "model": "general:item/module/transformer/1" },
+    { "predicate": { "custom_model_data": 151 }, "model": "general:item/module/transformer/2" },
+    { "predicate": { "custom_model_data": 152 }, "model": "general:item/module/transformer/3" },
+    { "predicate": { "custom_model_data": 153 }, "model": "general:item/module/transformer/4" },
+
+    { "predicate": { "custom_model_data": 160 }, "model": "general:item/module/energy_capacity/1" },
+    { "predicate": { "custom_model_data": 161 }, "model": "general:item/module/energy_capacity/2" },
+    { "predicate": { "custom_model_data": 162 }, "model": "general:item/module/energy_capacity/3" },
+    { "predicate": { "custom_model_data": 163 }, "model": "general:item/module/energy_capacity/4" },
+
+    { "predicate": { "custom_model_data": 170 }, "model": "general:item/module/fluid_capacity/1" },
+    { "predicate": { "custom_model_data": 171 }, "model": "general:item/module/fluid_capacity/2" },
+    { "predicate": { "custom_model_data": 172 }, "model": "general:item/module/fluid_capacity/3" },
+    { "predicate": { "custom_model_data": 173 }, "model": "general:item/module/fluid_capacity/4" },
+
+    { "predicate": { "custom_model_data": 180 }, "model": "general:item/module/sieve_items" },
+    { "predicate": { "custom_model_data": 181 }, "model": "general:item/module/electrical_fuse" },
+
+    { "predicate": { "custom_model_data": 190 }, "model": "general:item/module/item_pusher/north" },
+    { "predicate": { "custom_model_data": 191 }, "model": "general:item/module/item_pusher/east" },
+    { "predicate": { "custom_model_data": 192 }, "model": "general:item/module/item_pusher/south" },
+    { "predicate": { "custom_model_data": 193 }, "model": "general:item/module/item_pusher/west" },
+    { "predicate": { "custom_model_data": 194 }, "model": "general:item/module/item_pusher/up" },
+    { "predicate": { "custom_model_data": 195 }, "model": "general:item/module/item_pusher/down" },
+    { "predicate": { "custom_model_data": 196 }, "model": "general:item/module/item_pusher/all" },
+
+    { "predicate": { "custom_model_data": 200 }, "model": "general:item/module/overclock/1" },
+    { "predicate": { "custom_model_data": 201 }, "model": "general:item/module/overclock/2" },
+    { "predicate": { "custom_model_data": 202 }, "model": "general:item/module/overclock/3" },
+    { "predicate": { "custom_model_data": 203 }, "model": "general:item/module/overclock/4" },
+
+    { "predicate": { "custom_model_data": 1000 }, "model": "general:item/soldering/soldering_iron_empty" },
+
+    { "predicate": { "custom_model_data": 2000 }, "model": "electricity:item/raw_memory_crystal" },
+    { "predicate": { "custom_model_data": 2001 }, "model": "electricity:item/memory_crystal" },
+    { "predicate": { "custom_model_data": 2002 }, "model": "electricity:item/tool_power_unit" },
+
+    { "predicate": { "custom_model_data": 5000 }, "model": "quests:item/novice_chest" },
+    { "predicate": { "custom_model_data": 5001 }, "model": "quests:item/novice_electrician_chest" },
+    { "predicate": { "custom_model_data": 5002 }, "model": "quests:item/advanced_electrician_chest" },
+    { "predicate": { "custom_model_data": 5003 }, "model": "quests:item/apiarist_chest" },
+    { "predicate": { "custom_model_data": 5004 }, "model": "quests:item/electric_storage_press_chest" },
+    { "predicate": { "custom_model_data": 5005 }, "model": "quests:item/electric_storage_chest" },
+    { "predicate": { "custom_model_data": 5006 }, "model": "quests:item/skyblock_chest" },
+    { "predicate": { "custom_model_data": 5007 }, "model": "quests:item/mech_chest" },
+    { "predicate": { "custom_model_data": 5008 }, "model": "quests:item/steam_mech_chest" },
+    { "predicate": { "custom_model_data": 5009 }, "model": "quests:item/electric_mech_chest" },
+    { "predicate": { "custom_model_data": 5010 }, "model": "quests:item/modules_chest" },
+
+    { "predicate": { "custom_model_data": 5100 }, "model": "quests:item/pottery_sherds_chest" },
+
+    { "predicate": { "custom_model_data": 5200 }, "model": "quests:item/quest_pass_plus" },
+
+    { "predicate": { "custom_model_data": 5300 }, "model": "quests:item/collection_old_1_chest" },
+    { "predicate": { "custom_model_data": 5301 }, "model": "quests:item/collection_old_sbm_1_chest" },
+
+    { "predicate": { "custom_model_data": 6000 }, "model": "quantum:item/connector" },
+    { "predicate": { "custom_model_data": 6010 }, "model": "quantum:item/wand" },
+
+    { "predicate": { "custom_model_data": 7000 }, "model": "electric_storage:item/wireless_terminal" },
+    
+    { "predicate": { "custom_model_data": 8000 }, "model": "donates:item/bundle" },
+    { "predicate": { "custom_model_data": 8100 }, "model": "donates:item/portable_workbench" },
+    { "predicate": { "custom_model_data": 8101 }, "model": "donates:item/portable_ender_chest" },
+
+    { "predicate": { "custom_model_data": 20000 }, "model": "bees:item/bee/common/princess" },
+    { "predicate": { "custom_model_data": 20001 }, "model": "bees:item/bee/cultivated/princess" },
+    { "predicate": { "custom_model_data": 20002 }, "model": "bees:item/bee/noble/princess" },
+    { "predicate": { "custom_model_data": 20003 }, "model": "bees:item/bee/majestic/princess" },
+    { "predicate": { "custom_model_data": 20004 }, "model": "bees:item/bee/conscientious/princess" },
+    { "predicate": { "custom_model_data": 20005 }, "model": "bees:item/bee/tireless/princess" },
+    { "predicate": { "custom_model_data": 20006 }, "model": "bees:item/bee/imperial/princess" },
+    { "predicate": { "custom_model_data": 20007 }, "model": "bees:item/bee/cave/princess" },
+    { "predicate": { "custom_model_data": 20008 }, "model": "bees:item/bee/coral/princess" },
+    { "predicate": { "custom_model_data": 20009 }, "model": "bees:item/bee/fire/princess" },
+    { "predicate": { "custom_model_data": 20010 }, "model": "bees:item/bee/demonic/princess" },
+    { "predicate": { "custom_model_data": 20011 }, "model": "bees:item/bee/infernal/princess" },
+    { "predicate": { "custom_model_data": 20012 }, "model": "bees:item/bee/diligent/princess" },
+    { "predicate": { "custom_model_data": 20013 }, "model": "bees:item/bee/hardworking/princess" },
+    { "predicate": { "custom_model_data": 20014 }, "model": "bees:item/bee/valiant/princess" },
+    { "predicate": { "custom_model_data": 20015 }, "model": "bees:item/bee/tropical/princess" },
+    { "predicate": { "custom_model_data": 20016 }, "model": "bees:item/bee/heavenly/princess" },
+    { "predicate": { "custom_model_data": 20017 }, "model": "bees:item/bee/ice/princess" },
+
+    { "predicate": { "custom_model_data": 1000000 }, "model": "july1:entity/2024/yandex_courier" },
+    { "predicate": { "custom_model_data": 1000001 }, "model": "july1:item/2024/ruble" },
+    { "predicate": { "custom_model_data": 1000002 }, "model": "july1:item/2024/meat_grinder_phone" },
+    { "predicate": { "custom_model_data": 1000003 }, "model": "july1:item/2024/ak47/default" },
+    { "predicate": { "custom_model_data": 1000004 }, "model": "july1:item/2024/ak47/blue_laminate" },
+    { "predicate": { "custom_model_data": 1000005 }, "model": "july1:item/2024/ak47/redline" },
+    { "predicate": { "custom_model_data": 1000006 }, "model": "july1:item/2024/ak47/asiimov" },
+    { "predicate": { "custom_model_data": 1000010 }, "model": "july1:item/2024/csgo_weapon_case" }
+  ]
+}

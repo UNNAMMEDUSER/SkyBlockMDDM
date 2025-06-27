@@ -1,0 +1,22 @@
+{
+	"credit": "Dareda + levnemcev",
+	"parent": "mechsandtechs:block/root",
+	"textures": {
+		"0": "steam:block/metal_molder",
+		"particle": "steam:block/metal_molder"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [8, 8, 16, 16], "texture": "#0"},
+				"east": {"uv": [0, 8, 8, 16], "texture": "#0"},
+				"south": {"uv": [0, 0, 8, 8], "texture": "#0"},
+				"west": {"uv": [0, 8, 8, 16], "rotation": 90, "texture": "#0"},
+				"up": {"uv": [16, 8, 8, 0], "texture": "#0"},
+				"down": {"uv": [8, 0, 0, 8], "texture": "#0"}
+			}
+		}
+	]
+}

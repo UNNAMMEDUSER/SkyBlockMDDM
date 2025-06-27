@@ -1,0 +1,22 @@
+{
+	"credit": "Miwo4ka",
+	"parent": "mechsandtechs:block/root",
+	"textures": {
+		"0": "electricity:block/blast_furnace/coil/kanthal_full",
+		"particle": "electricity:block/blast_furnace/coil/kanthal_full"
+	},
+	"elements": [
+		{
+			"from": [-16, 0, -16],
+			"to": [32, 32, 32],
+			"faces": {
+				"north": {"uv": [0, 0, 12, 8], "texture": "#0"},
+				"east": {"uv": [0, 0, 12, 8], "texture": "#0"},
+				"south": {"uv": [0, 0, 12, 8], "texture": "#0"},
+				"west": {"uv": [0, 0, 12, 8], "texture": "#0"},
+				"up": {"uv": [0, 12, 4, 16], "texture": "#0"},
+				"down": {"uv": [0, 12, 4, 16], "texture": "#0"}
+			}
+		}
+	]
+}

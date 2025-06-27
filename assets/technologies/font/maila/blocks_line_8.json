@@ -1,0 +1,13 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "technologies:maila_blocks.png",
+            "ascent": -25,
+            "height": 24,
+            "chars": [
+                "\u1001"
+            ]
+        }
+    ]
+}

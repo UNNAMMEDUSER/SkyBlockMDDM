@@ -1,0 +1,7 @@
+{
+	"credit": "levnemcev",
+	"parent": "electricity:block/thermal_centrifuge_inventory",
+	"textures": {
+		"1": "electricity:block/overclock/empty"
+	}
+}

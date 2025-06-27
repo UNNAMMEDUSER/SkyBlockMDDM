@@ -1,0 +1,15 @@
+{
+  "providers": [
+    { "type": "bitmap", "file": "customization:gui/customization.png", "ascent": 19, "height": 256, "chars": [ "\u0001" ] },
+
+    {
+      "type": "bitmap",
+      "file": "customization:gui/chosen_item_grid.png",
+      "ascent": -22,
+      "height": 72,
+      "chars": [
+	      "\u1000\u1001\u1002\u1003"
+      ]
+    }
+  ]
+}

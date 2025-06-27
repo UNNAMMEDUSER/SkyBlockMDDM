@@ -1,0 +1,7 @@
+{
+	"credit": "levnemcev",
+	"parent": "electricity:block/mixer_inventory",
+	"textures": {
+		"1": "electricity:block/overclock/empty"
+	}
+}

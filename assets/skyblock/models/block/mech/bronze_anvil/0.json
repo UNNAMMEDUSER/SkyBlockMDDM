@@ -1,0 +1,94 @@
+{
+	"credit": "Dareda",
+	"parent": "mechsandtechs:block/root",
+	"textures": {
+		"1": "skyblock:block/mech/bronze_anvil/side",
+		"2": "skyblock:block/mech/bronze_anvil/0",
+		"particle": "skyblock:block/mech/bronze_anvil/side"
+	},
+	"gui_light": "side",
+	"elements": [
+		{
+			"from": [0, 9.99, 3],
+			"to": [16, 16, 13],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 13, 8]},
+			"faces": {
+				"north": {"uv": [7, 0, 13, 16], "rotation": 90, "texture": "#2"},
+				"east": {"uv": [3, 10, 13, 16], "texture": "#2"},
+				"south": {"uv": [3, 0, 9, 16], "rotation": 270, "texture": "#2"},
+				"west": {"uv": [3, 0, 13, 6], "texture": "#2"},
+				"up": {"uv": [3, 0, 13, 16], "rotation": 90, "texture": "#2"},
+				"down": {"uv": [3, 0, 13, 16], "rotation": 90, "texture": "#2"}
+			}
+		},
+		{
+			"from": [2, 0, 2],
+			"to": [14, 4.02, 14],
+			"rotation": {"angle": 0, "axis": "y", "origin": [6, 8, 6]},
+			"faces": {
+				"north": {"uv": [3, 7, 15, 11], "texture": "#1"},
+				"east": {"uv": [4, 12, 16, 16], "texture": "#1"},
+				"south": {"uv": [0, 4, 12, 8], "texture": "#1"},
+				"west": {"uv": [0, 12, 12, 16], "texture": "#1"},
+				"up": {"uv": [4, 4, 16, 16], "rotation": 180, "texture": "#1"},
+				"down": {"uv": [1, 4, 13, 16], "texture": "#1"}
+			}
+		},
+		{
+			"from": [3, 4, 4],
+			"to": [13, 5.01, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [6, 8, 6]},
+			"faces": {
+				"north": {"uv": [0, 6, 10, 7], "texture": "#1"},
+				"east": {"uv": [0, 5, 8, 6], "texture": "#1"},
+				"south": {"uv": [5, 6, 15, 7], "texture": "#1"},
+				"west": {"uv": [0, 7, 8, 8], "texture": "#1"},
+				"up": {"uv": [0, 8, 10, 16], "rotation": 180, "texture": "#1"},
+				"down": {"uv": [0, 0, 1, 1], "rotation": 180, "texture": "#1"}
+			}
+		},
+		{
+			"from": [4, 5, 6],
+			"to": [12, 12, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [6, 9, 6]},
+			"faces": {
+				"north": {"uv": [8, 1, 16, 8], "texture": "#1"},
+				"east": {"uv": [6, 0, 10, 7], "texture": "#1"},
+				"south": {"uv": [0, 0, 8, 7], "texture": "#1"},
+				"west": {"uv": [6, 9, 10, 16], "texture": "#1"},
+				"up": {"uv": [0, 0, 1, 1], "rotation": 180, "texture": "#1"},
+				"down": {"uv": [0, 0, 1, 1], "rotation": 180, "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"ground": {
+            "rotation": [0, 90, 0],
+            "translation": [0, 3, 0],
+            "scale":[0.25, 0.25, 0.25]
+        },
+		"gui": {
+			"rotation": [30, 315, 0],
+			"translation": [0, 0, 0],
+            "scale": [0.625, 0.625, 0.625]
+		},
+		"fixed": {
+            "rotation": [0, 90, 0],
+            "translation": [0, 0, 0],
+            "scale":[0.5, 0.5, 0.5]
+        },
+        "thirdperson_righthand": {
+            "rotation": [75, 135, 0],
+            "translation": [0, 2.5, 0],
+            "scale": [0.375, 0.375, 0.375]
+        },
+		"firstperson_righthand": {
+			"rotation": [0, 135, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 135, 0],
+			"scale": [0.4, 0.4, 0.4]
+		}
+	}
+}

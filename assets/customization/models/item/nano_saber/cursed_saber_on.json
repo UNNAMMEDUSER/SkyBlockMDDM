@@ -1,0 +1,6 @@
+{
+    "parent": "customization:item/nano_saber/cursed_saber",
+    "textures": {
+        "layer0": "customization:item/nano_saber/cursed_saber_on"
+    }
+}

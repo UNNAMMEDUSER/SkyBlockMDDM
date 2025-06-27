@@ -1,0 +1,7 @@
+{
+	"credit": "levnemcev",
+	"parent": "electricity:block/assembly_machine",
+	"textures": {
+		"0": "electricity:block/assembly_machine_on"
+	}
+}

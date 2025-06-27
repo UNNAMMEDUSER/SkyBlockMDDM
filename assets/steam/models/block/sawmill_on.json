@@ -1,0 +1,8 @@
+{
+	"credit": "levnemcev",
+	"parent": "steam:block/sawmill",
+	"textures": {
+		"0": "steam:block/sawmill_on",
+		"particle": "steam:block/sawmill_on"
+	}
+}

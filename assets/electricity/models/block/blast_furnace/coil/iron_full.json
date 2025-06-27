@@ -1,0 +1,8 @@
+{
+	"credit": "levnemcev",
+	"parent": "electricity:block/blast_furnace/coil/bronze_full",
+	"textures": {
+		"0": "electricity:block/blast_furnace/coil/iron_full",
+		"particle": "electricity:block/blast_furnace/coil/iron_full"
+	}
+}

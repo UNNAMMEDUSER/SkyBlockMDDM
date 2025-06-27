@@ -1,0 +1,8 @@
+{
+	"credit": "Dareda",
+	"parent": "electricity:block/pulverizer",
+	"textures": {
+		"0": "electricity:block/pulverizer_on",
+		"particle": "electricity:block/pulverizer_on"
+	}
+}

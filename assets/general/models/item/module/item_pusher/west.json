@@ -1,0 +1,6 @@
+{
+	"parent": "general:item/module/item_pusher/all",
+	"textures": {
+		"screen": "general:item/module/item_pusher/west"
+	}
+}

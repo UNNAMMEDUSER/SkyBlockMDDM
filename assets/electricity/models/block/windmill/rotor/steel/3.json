@@ -1,0 +1,8 @@
+{
+	"credit": "LeonidM",
+	"parent": "electricity:block/windmill/rotor/steel/0",
+	"textures": {
+		"0": "electricity:block/windmill/rotor/steel/3",
+		"particle": "electricity:block/windmill/rotor/steel/3"
+	}
+}

@@ -1,0 +1,7 @@
+{
+	"credit": "levnemcev",
+	"parent": "electricity:block/phytogenic_chamber",
+	"textures": {
+		"0": "electricity:block/phytogenic_chamber_on"
+	}
+}

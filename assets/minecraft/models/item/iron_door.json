@@ -1,0 +1,12 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "minecraft:item/iron_door"
+    },
+    "overrides": [
+        { "predicate": { "custom_model_data": 200 }, "model": "electricity:block/clean_room/door_inventory" },
+        { "predicate": { "custom_model_data": 201 }, "model": "electricity:block/clean_room/door" },
+        { "predicate": { "custom_model_data": 210 }, "model": "electricity:block/stabilizing_room/door_inventory" },
+        { "predicate": { "custom_model_data": 211 }, "model": "electricity:block/stabilizing_room/door" }
+    ]
+}

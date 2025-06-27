@@ -1,0 +1,7 @@
+{
+	"credit": "levnemcev",
+	"parent": "electricity:block/sawmill",
+	"textures": {
+		"0": "electricity:block/sawmill_on"
+	}
+}

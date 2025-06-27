@@ -1,0 +1,6 @@
+{
+	"parent": "general:item/module/base_1",
+	"textures": {
+		"screen": "general:item/module/transformer/1"
+	}
+}

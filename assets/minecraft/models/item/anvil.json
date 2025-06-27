@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/anvil",
+  "overrides": [
+    { "predicate": { "custom_model_data": 1 }, "model": "skyblock:block/mech/bronze_anvil/0" },
+    { "predicate": { "custom_model_data": 2 }, "model": "skyblock:block/mech/bronze_anvil/1" },
+    { "predicate": { "custom_model_data": 3 }, "model": "skyblock:block/mech/bronze_anvil/2" }
+  ]
+}

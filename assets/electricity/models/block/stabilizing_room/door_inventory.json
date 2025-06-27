@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "electricity:block/stabilizing_room/door_inventory"
+    }
+}

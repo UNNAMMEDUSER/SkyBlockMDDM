@@ -1,0 +1,7 @@
+{
+	"parent": "electricity:block/indicator/in/up",
+	"textures": {
+		"0": "electricity:block/indicator/disabled",
+		"particle": "electricity:block/indicator/disabled"
+	}
+}

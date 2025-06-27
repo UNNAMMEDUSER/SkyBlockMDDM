@@ -1,0 +1,7 @@
+{
+    "credit": "SkyBlockM",
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "collections:item/old/sbm/general_copper_wire"
+    }
+}

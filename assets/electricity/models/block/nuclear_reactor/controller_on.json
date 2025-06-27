@@ -1,0 +1,8 @@
+{
+	"credit": "Miwo4ka",
+	"parent": "electricity:block/nuclear_reactor/controller",
+	"textures": {
+		"0": "electricity:block/nuclear_reactor/controller_on",
+		"particle": "electricity:block/nuclear_reactor/controller_on"
+	}
+}

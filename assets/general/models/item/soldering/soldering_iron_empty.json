@@ -1,0 +1,6 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "general:item/soldering/soldering_iron_empty"
+	}
+}

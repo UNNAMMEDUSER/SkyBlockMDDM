@@ -1,0 +1,20 @@
+{
+	"parent": "mechsandtechs:block/root",
+	"textures": {
+		"1": "electricity:block/stabilizing_room/door"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 16, 3.1],
+			"faces": {
+				"north": {"uv": [0, 8, 8, 16], "texture": "#1"},
+				"east": {"uv": [10.5, 8, 12, 16], "texture": "#1"},
+				"south": {"uv": [8, 8, 0, 16], "texture": "#1"},
+				"west": {"uv": [8.5, 8, 10, 16], "texture": "#1"},
+				"up": {"uv": [12.5, 0, 14, 8], "rotation": 90, "texture": "#1"},
+				"down": {"uv": [14.5, 0, 16, 8], "rotation": 90, "texture": "#1"}
+			}
+		}
+	]
+}

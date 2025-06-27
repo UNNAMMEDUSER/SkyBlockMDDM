@@ -1,0 +1,120 @@
+{
+  "providers": [
+    {
+      "type": "space",
+      "advances": {
+        "": -1024,
+        "": -512,
+        "": -256,
+        "": -128,
+        "": -64,
+        "": -32,
+        "": -16,
+        "": -8,
+        "": -7,
+        "": -6,
+        "": -5,
+        "": -4,
+        "": -3,
+        "": -2,
+        "": -1,
+        "": 1,
+        "": 2,
+        "": 3,
+        "": 4,
+        "": 5,
+        "": 6,
+        "": 7,
+        "": 8,
+        "": 16,
+        "": 32,
+        "": 64,
+        "": 128,
+        "": 256,
+        "": 512,
+        "": 1024
+      }
+    },
+    {
+      "type": "bitmap",
+      "file": "july1:animation/2024/sigma/0.png",
+      "ascent": 7,
+      "height": 27,
+      "chars": [
+        "က"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "july1:animation/2024/sigma/1.png",
+      "ascent": 7,
+      "height": 27,
+      "chars": [
+        "ခ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "july1:animation/2024/sigma/2.png",
+      "ascent": 7,
+      "height": 27,
+      "chars": [
+        "ဂ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "july1:animation/2024/sigma/3.png",
+      "ascent": -20,
+      "height": 27,
+      "chars": [
+        "ဃ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "july1:animation/2024/sigma/4.png",
+      "ascent": -20,
+      "height": 27,
+      "chars": [
+        "င"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "july1:animation/2024/sigma/5.png",
+      "ascent": -20,
+      "height": 27,
+      "chars": [
+        "စ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "july1:animation/2024/sigma/6.png",
+      "ascent": -47,
+      "height": 27,
+      "chars": [
+        "ဆ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "july1:animation/2024/sigma/7.png",
+      "ascent": -47,
+      "height": 27,
+      "chars": [
+        "ဇ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "july1:animation/2024/sigma/8.png",
+      "ascent": -47,
+      "height": 27,
+      "chars": [
+        "ဈ"
+      ]
+    }
+  ]
+}

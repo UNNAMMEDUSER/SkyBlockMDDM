@@ -1,0 +1,7 @@
+{
+	"credit": "Dareda",
+	"parent": "electricity:block/pulverizer_inventory",
+	"textures": {
+		"1": "electricity:block/overclock/empty"
+	}
+}

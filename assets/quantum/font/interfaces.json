@@ -1,0 +1,14 @@
+{
+  "providers": [
+    { "type": "bitmap", "file": "quantum:gui/electric_singularity_block.png", "ascent": 19, "height": 256, "chars": [ "\u0001" ] },
+
+    { "type": "bitmap", "file": "quantum:gui/generator.png", "ascent": 19, "height": 256, "chars": [ "\u0100" ] },
+
+    { "type": "bitmap", "file": "quantum:gui/ore_generator.png", "ascent": 19, "height": 256, "chars": [ "\u0110" ] },
+    { "type": "bitmap", "file": "quantum:gui/quarry.png", "ascent": 19, "height": 256, "chars": [ "\u0111" ] },
+	  { "type": "bitmap", "file": "quantum:gui/matter_generator.png", "ascent": 19, "height": 256, "chars": [ "\u0112" ] },
+
+  	{ "type": "bitmap", "file": "quantum:gui/pipe.png", "ascent": 19, "height": 256, "chars": [ "\u0200" ] },
+	  { "type": "bitmap", "file": "quantum:gui/hopper.png", "ascent": 19, "height": 256, "chars": [ "\u0201" ] }
+  ]
+}

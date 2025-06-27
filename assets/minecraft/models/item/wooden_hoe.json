@@ -1,0 +1,48 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "minecraft:item/wooden_hoe"
+    },
+    "overrides": [
+        { "predicate": { "custom_model_data": 1 }, "model": "mechsandtechs:item/wrench" },
+        { "predicate": { "custom_model_data": 2 }, "model": "mechsandtechs:item/advanced_wrench" },
+
+        { "predicate": { "custom_model_data": 100 }, "model": "general:item/nippers" },
+
+        { "predicate": { "custom_model_data": 200 }, "model": "electricity:item/multimeter" },
+        { "predicate": { "custom_model_data": 201 }, "model": "electricity:item/wind_meter" },
+
+        { "predicate": { "custom_model_data": 210 }, "model": "electricity:item/reactor/cooling_rod_10k" },
+        { "predicate": { "custom_model_data": 211 }, "model": "electricity:item/reactor/cooling_rod_30k" },
+        { "predicate": { "custom_model_data": 212 }, "model": "electricity:item/reactor/cooling_rod_60k" },
+
+        { "predicate": { "custom_model_data": 220 }, "model": "electricity:item/reactor/heat_exchanger" },
+        { "predicate": { "custom_model_data": 221 }, "model": "electricity:item/reactor/advanced_heat_exchanger" },
+        { "predicate": { "custom_model_data": 222 }, "model": "electricity:item/reactor/component_heat_exchanger" },
+
+        { "predicate": { "custom_model_data": 230 }, "model": "electricity:item/reactor/heat_vent" },
+        { "predicate": { "custom_model_data": 231 }, "model": "electricity:item/reactor/advanced_heat_vent" },
+        { "predicate": { "custom_model_data": 232 }, "model": "electricity:item/reactor/component_heat_vent" },
+        { "predicate": { "custom_model_data": 233 }, "model": "electricity:item/reactor/reactor_heat_vent" },
+        { "predicate": { "custom_model_data": 234 }, "model": "electricity:item/reactor/overclock_heat_vent" },
+
+        { "predicate": { "custom_model_data": 240 }, "model": "electricity:item/reactor/fuel/uranium/1" },
+        { "predicate": { "custom_model_data": 241 }, "model": "electricity:item/reactor/fuel/uranium/2" },
+        { "predicate": { "custom_model_data": 242 }, "model": "electricity:item/reactor/fuel/uranium/4" },
+        { "predicate": { "custom_model_data": 243 }, "model": "electricity:item/reactor/fuel/mox/1" },
+        { "predicate": { "custom_model_data": 244 }, "model": "electricity:item/reactor/fuel/mox/2" },
+        { "predicate": { "custom_model_data": 245 }, "model": "electricity:item/reactor/fuel/mox/4" },
+
+        { "predicate": { "custom_model_data": 260 }, "model": "electricity:item/singular/reactor/cooling_rod_10k" },
+        { "predicate": { "custom_model_data": 261 }, "model": "electricity:item/singular/reactor/cooling_rod_30k" },
+        { "predicate": { "custom_model_data": 262 }, "model": "electricity:item/singular/reactor/cooling_rod_60k" },
+
+        { "predicate": { "custom_model_data": 270 }, "model": "electricity:item/singular/reactor/heat_exchanger" },
+        { "predicate": { "custom_model_data": 271 }, "model": "electricity:item/singular/reactor/advanced_heat_exchanger" },
+
+        { "predicate": { "custom_model_data": 280 }, "model": "electricity:item/singular/reactor/heat_vent" },
+        { "predicate": { "custom_model_data": 281 }, "model": "electricity:item/singular/reactor/advanced_heat_vent" },
+
+        { "predicate": { "custom_model_data": 300 }, "model": "bees:item/scoop" }
+    ]
+}

@@ -1,0 +1,7 @@
+{
+	"parent": "electricity:block/indicator/in/side",
+	"textures": {
+		"0": "electricity:block/indicator/out",
+		"particle": "electricity:block/indicator/out"
+	}
+}

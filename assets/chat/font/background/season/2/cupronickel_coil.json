@@ -1,0 +1,21 @@
+{
+    "providers": [
+        { "type": "bitmap", "file": "chat:background/season/2/cupronickel_coil/1.png", "ascent": 8, "height": 10, "chars": [ "\u1001" ] },
+        { "type": "bitmap", "file": "chat:background/season/2/cupronickel_coil/2.png", "ascent": 8, "height": 10, "chars": [ "\u1002" ] },
+        { "type": "bitmap", "file": "chat:background/season/2/cupronickel_coil/3.png", "ascent": 8, "height": 10, "chars": [ "\u1003" ] },
+        { "type": "bitmap", "file": "chat:background/season/2/cupronickel_coil/4.png", "ascent": 8, "height": 10, "chars": [ "\u1004" ] },
+        { "type": "bitmap", "file": "chat:background/season/2/cupronickel_coil/5.png", "ascent": 8, "height": 10, "chars": [ "\u1005" ] },
+        { "type": "bitmap", "file": "chat:background/season/2/cupronickel_coil/6.png", "ascent": 8, "height": 10, "chars": [ "\u1006" ] },
+        { "type": "bitmap", "file": "chat:background/season/2/cupronickel_coil/7.png", "ascent": 8, "height": 10, "chars": [ "\u1007" ] },
+        { "type": "bitmap", "file": "chat:background/season/2/cupronickel_coil/8.png", "ascent": 8, "height": 10, "chars": [ "\u1008" ] },
+        { "type": "bitmap", "file": "chat:background/season/2/cupronickel_coil/9.png", "ascent": 8, "height": 10, "chars": [ "\u1009" ] },
+        { "type": "bitmap", "file": "chat:background/season/2/cupronickel_coil/10.png", "ascent": 8, "height": 10, "chars": [ "\u100A" ] },
+        { "type": "bitmap", "file": "chat:background/season/2/cupronickel_coil/11.png", "ascent": 8, "height": 11, "chars": [ "\u100B" ] },
+        { "type": "bitmap", "file": "chat:background/season/2/cupronickel_coil/12.png", "ascent": 8, "height": 12, "chars": [ "\u100C" ] },
+        { "type": "bitmap", "file": "chat:background/season/2/cupronickel_coil/13.png", "ascent": 8, "height": 13, "chars": [ "\u100D" ] },
+        { "type": "bitmap", "file": "chat:background/season/2/cupronickel_coil/14.png", "ascent": 8, "height": 14, "chars": [ "\u100E" ] },
+
+        { "type": "bitmap", "file": "chat:background/season/2/cupronickel_coil/prefix.png", "ascent": 8, "height": 10, "chars": [ "\u2000" ] },
+        { "type": "bitmap", "file": "chat:background/season/2/cupronickel_coil/suffix.png", "ascent": 8, "height": 10, "chars": [ "\u2001" ] }
+    ]
+}

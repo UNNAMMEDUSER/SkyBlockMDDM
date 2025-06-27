@@ -1,0 +1,6 @@
+{
+    "parent": "bees:item/bee/raw/princess",
+    "textures": {
+        "layer0": "bees:item/bee/infernal"
+    }
+}

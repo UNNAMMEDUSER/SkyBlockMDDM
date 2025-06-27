@@ -1,0 +1,13 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "gui:item/bar/background"
+	},
+	"display": {
+		"fixed": {
+			"rotation": [0, 0, -180],
+			"translation": [0, 0, 0.001],
+			"scale": [1, 1, 1]
+		}
+	}
+}

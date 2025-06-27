@@ -1,0 +1,8 @@
+{
+	"credit": "levnemcev",
+	"parent": "electricity:block/turbine/steam",
+	"textures": {
+		"0": "electricity:block/turbine/steam_on",
+		"particle": "electricity:block/turbine/steam_on"
+	}
+}

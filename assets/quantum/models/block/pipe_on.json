@@ -1,0 +1,8 @@
+{
+	"credit": "levnemcev",
+	"parent": "quantum:block/pipe",
+	"textures": {
+		"1": "quantum:block/pipe_on",
+		"particle": "quantum:block/pipe_on"
+	}
+}

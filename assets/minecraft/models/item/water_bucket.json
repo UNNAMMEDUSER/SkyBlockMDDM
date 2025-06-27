@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/water_bucket"
+  },
+  "overrides": [
+    { "predicate": { "custom_model_data": 100 }, "model": "skyblock:item/wooden_water_bucket" },
+
+    { "predicate": { "custom_model_data": 200 }, "model": "general:item/saline_solution_bucket" },
+    { "predicate": { "custom_model_data": 201 }, "model": "general:item/sulphuric_acid_bucket" }
+  ]
+}

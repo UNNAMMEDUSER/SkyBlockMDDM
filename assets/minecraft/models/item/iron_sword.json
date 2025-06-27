@@ -1,0 +1,13 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "minecraft:item/iron_sword"
+    },
+    "overrides": [
+        { "predicate": { "custom_model_data": 110 }, "model": "general:item/resource/bronze/sword" },
+
+        { "predicate": { "custom_model_data": 1000100 }, "model": "customization:item/sword/sculk" },
+        { "predicate": { "custom_model_data": 1000101 }, "model": "customization:item/sword/amethyst" },
+        { "predicate": { "custom_model_data": 1000102 }, "model": "customization:item/sword/mossy" }
+    ]
+}

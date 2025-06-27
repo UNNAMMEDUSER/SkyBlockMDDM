@@ -1,0 +1,8 @@
+{
+	"credit": "levnemcev",
+	"parent": "electricity:block/placer/side",
+	"textures": {
+		"0": "electricity:block/placer/up",
+		"particle": "electricity:block/placer/up"
+	}
+}

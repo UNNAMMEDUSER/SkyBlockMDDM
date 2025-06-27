@@ -1,0 +1,41 @@
+{
+	"credit": "IC2",
+	"textures": {
+		"1": "gui:item/icon/symbol/exclamation",
+		"particle": "gui:item/icon/symbol/exclamation",
+		"layer0": "gui:item/bar/scanner/60"
+	},
+	"elements": [
+		{
+			"from": [-6.5, 0, 0],
+			"to": [25.5, 24, 2],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#layer0"},
+				"east": {"uv": [0, 0, 2, 16], "texture": "#layer0"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#layer0"},
+				"west": {"uv": [0, 0, 2, 16], "texture": "#layer0"},
+				"up": {"uv": [0, 0, 16, 2], "texture": "#layer0"},
+				"down": {"uv": [0, 0, 16, 2], "texture": "#layer0"}
+			}
+		},
+		{
+			"from": [24, -3, 0],
+			"to": [32, 5, 2],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"east": {"uv": [0, 0, 2, 2], "texture": "#1"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"west": {"uv": [0, 0, 2, 2], "texture": "#1"},
+				"up": {"uv": [0, 0, 2, 2], "texture": "#1"},
+				"down": {"uv": [0, 0, 2, 2], "texture": "#1"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"gui": {
+			"translation": [-40, 14, 0],
+			"scale": [2, 2, 1]
+		}
+	}
+}

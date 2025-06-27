@@ -1,0 +1,7 @@
+{
+	"credit": "Miwo4ka",
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "general:item/resource/titanium/ingot"
+	}
+}

@@ -1,0 +1,9 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "minecraft:item/shears"
+    },
+    "overrides": [
+        { "predicate": { "custom_model_data": 110 }, "model": "general:item/resource/bronze/shears" }
+    ]
+}

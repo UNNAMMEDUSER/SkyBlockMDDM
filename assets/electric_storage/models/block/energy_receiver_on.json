@@ -1,0 +1,7 @@
+{
+	"parent": "electric_storage:block/energy_receiver",
+	"textures": {
+		"0": "electric_storage:block/energy_receiver_on",
+		"particle": "electric_storage:block/energy_receiver_on"
+	}
+}

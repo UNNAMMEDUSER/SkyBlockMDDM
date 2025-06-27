@@ -1,0 +1,8 @@
+{
+	"credit": "Dareda",
+	"parent": "steam:block/pulverizer",
+	"textures": {
+		"0": "steam:block/pulverizer_on",
+		"particle": "steam:block/pulverizer_on"
+	}
+}

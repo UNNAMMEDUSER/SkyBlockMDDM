@@ -1,0 +1,7 @@
+{
+	"parent": "electricity:block/clean_room/diode/1",
+	"textures": {
+		"1": "electricity:block/clean_room/diode/2",
+		"particle": "electricity:block/clean_room/diode/2"
+	}
+}

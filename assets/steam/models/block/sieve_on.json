@@ -1,0 +1,8 @@
+{
+	"credit": "levnemcev",
+	"parent": "steam:block/sieve",
+	"textures": {
+		"0": "steam:block/sieve_on",
+		"particle": "steam:block/sieve_on"
+	}
+}

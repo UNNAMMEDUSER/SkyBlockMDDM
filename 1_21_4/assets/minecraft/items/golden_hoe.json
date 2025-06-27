@@ -1,0 +1,1 @@
+{"model": {"type": "range_dispatch", "property": "custom_model_data", "fallback": {"type": "model", "model": "minecraft:item/golden_hoe"}, "entries": [{"threshold": 200, "model": {"type": "model", "model": "electricity:item/tool/iridium/hoe"}}, {"threshold": 300, "model": {"type": "model", "model": "bees:item/bronze_knife"}}]}}

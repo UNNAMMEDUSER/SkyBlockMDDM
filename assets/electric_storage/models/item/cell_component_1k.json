@@ -1,0 +1,6 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "electric_storage:item/cell_component_1k"
+	}
+}

@@ -1,0 +1,35 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "july1:item/2024/privilege/console_plus"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"scale": [3.25, 3.25, 3.25]
+		},
+		"thirdperson_lefthand": {
+			"scale": [3.25, 3.25, 3.25]
+		},
+		"firstperson_righthand": {
+			"scale": [3.25, 3.25, 3.25]
+		},
+		"firstperson_lefthand": {
+			"scale": [3.25, 3.25, 3.25]
+		},
+		"ground": {
+			"scale": [3.25, 3.25, 3.25]
+		},
+		"gui": {
+			"scale": [3.25, 3.25, 3.25]
+		},
+		"head": {
+			"translation": [0, 7.25, 0],
+			"rotation": [0, 180, 0],
+			"scale": [3.25, 3.25, 3.25]
+		},
+		"fixed": {
+			"rotation": [0, 180, 0],
+			"scale": [3.25, 3.25, 3.25]
+		}
+	}
+}

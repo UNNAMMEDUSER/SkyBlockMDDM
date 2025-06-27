@@ -1,0 +1,37 @@
+{
+	"credit": "levnemcev",
+	"parent": "mechsandtechs:block/root",
+	"textures": {
+		"0": "electric_storage:block/monitor/locked",
+		"1": "electric_storage:block/monitor/locked_overlay",
+		"particle": "electric_storage:block/monitor/locked"
+	},
+	"elements": [
+		{
+			"name": "South",
+			"from": [2, 2, 0],
+			"to": [14, 14, 2],
+			"faces": {
+				"north": {"uv": [1, 1, 7, 7], "texture": "#0", "tintindex": 0},
+				"east": {"uv": [1, 1, 1.5, 7], "texture": "#0", "tintindex": 0},
+				"south": {"uv": [9, 1, 15, 7], "texture": "#0", "tintindex": 0},
+				"west": {"uv": [6.5, 1, 7, 7], "texture": "#0", "tintindex": 0},
+				"up": {"uv": [1, 1, 7, 1.5], "rotation": 180, "texture": "#0", "tintindex": 0},
+				"down": {"uv": [1, 6.5, 7, 7], "rotation": 180, "texture": "#0", "tintindex": 0}
+			}
+		},
+		{
+			"name": "South",
+			"from": [2, 2, 0],
+			"to": [14, 14, 2],
+			"faces": {
+				"north": {"uv": [1, 1, 7, 7], "texture": "#1"},
+				"east": {"uv": [1, 1, 1.5, 7], "texture": "#1"},
+				"south": {"uv": [9, 1, 15, 7], "texture": "#1"},
+				"west": {"uv": [6.5, 1, 7, 7], "texture": "#1"},
+				"up": {"uv": [1, 1, 7, 1.5], "rotation": 180, "texture": "#1"},
+				"down": {"uv": [1, 6.5, 7, 7], "rotation": 180, "texture": "#1"}
+			}
+		}
+	]
+}

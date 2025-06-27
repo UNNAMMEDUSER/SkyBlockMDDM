@@ -1,0 +1,33 @@
+{
+    "providers": [
+      { "type": "bitmap", "file": "chat:prefix/staff/admin.png", "ascent": 7, "height": 8, "chars": [ "\u1000" ] },
+      { "type": "bitmap", "file": "chat:prefix/staff/developer.png", "ascent": 7, "height": 8, "chars": [ "\u1001" ] },
+      { "type": "bitmap", "file": "chat:prefix/staff/helper.png", "ascent": 7, "height": 8, "chars": [ "\u1002" ] },
+      { "type": "bitmap", "file": "chat:prefix/staff/artist.png", "ascent": 7, "height": 8, "chars": [ "\u1003" ] },
+	  
+      { "type": "bitmap", "file": "chat:prefix/donate/meteor.png", "ascent": 7, "height": 8, "chars": [ "\u1100" ] },
+      { "type": "bitmap", "file": "chat:prefix/donate/moon.png", "ascent": 7, "height": 8, "chars": [ "\u1101" ] },
+      { "type": "bitmap", "file": "chat:prefix/donate/planet.png", "ascent": 7, "height": 8, "chars": [ "\u1102" ] },
+      { "type": "bitmap", "file": "chat:prefix/donate/star.png", "ascent": 7, "height": 8, "chars": [ "\u1103" ] },
+      { "type": "bitmap", "file": "chat:prefix/donate/galaxy.png", "ascent": 7, "height": 8, "chars": [ "\u1104" ] },
+      { "type": "bitmap", "file": "chat:prefix/donate/nova.png", "ascent": 7, "height": 8, "chars": [ "\u1105" ] },
+
+      { "type": "bitmap", "file": "chat:prefix/donate/alpha.png", "ascent": 7, "height": 8, "chars": [ "\u1110" ] },
+      { "type": "bitmap", "file": "chat:prefix/donate/beta.png", "ascent": 7, "height": 8, "chars": [ "\u1111" ] },
+      { "type": "bitmap", "file": "chat:prefix/donate/gamma.png", "ascent": 7, "height": 8, "chars": [ "\u1112" ] },
+
+      { "type": "bitmap", "file": "chat:prefix/advancement/old.png", "ascent": 7, "height": 8, "chars": [ "\u2000" ] },
+      { "type": "bitmap", "file": "chat:prefix/advancement/twitch.png", "ascent": 7, "height": 8, "chars": [ "\u2001" ] },
+      { "type": "bitmap", "file": "chat:prefix/advancement/youtube.png", "ascent": 7, "height": 8, "chars": [ "\u2002" ] },
+
+      { "type": "bitmap", "file": "chat:prefix/advancement/tester_1.png", "ascent": 7, "height": 8, "chars": [ "\u2100" ] },
+      { "type": "bitmap", "file": "chat:prefix/advancement/tester_2.png", "ascent": 7, "height": 8, "chars": [ "\u2101" ] },
+      { "type": "bitmap", "file": "chat:prefix/advancement/tester_3.png", "ascent": 7, "height": 8, "chars": [ "\u2102" ] },
+      { "type": "bitmap", "file": "chat:prefix/advancement/tester_4.png", "ascent": 7, "height": 8, "chars": [ "\u2103" ] },
+      { "type": "bitmap", "file": "chat:prefix/advancement/tester_5.png", "ascent": 7, "height": 8, "chars": [ "\u2104" ] },
+      { "type": "bitmap", "file": "chat:prefix/advancement/tester_6.png", "ascent": 7, "height": 8, "chars": [ "\u2105" ] },
+
+      { "type": "bitmap", "file": "chat:prefix/season/1/quest_pass_plus.png", "ascent": 7, "height": 8, "chars": [ "\u4000" ] },
+      { "type": "bitmap", "file": "chat:prefix/season/2/quest_pass_plus.png", "ascent": 7, "height": 8, "chars": [ "\u4001" ] }
+    ]
+}

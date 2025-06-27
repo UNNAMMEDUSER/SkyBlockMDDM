@@ -1,0 +1,363 @@
+{
+  "providers": [
+	{
+      "type": "space",
+      "advances": {
+        "": -1024,
+        "": -512,
+        "": -256,
+        "": -128,
+        "": -64,
+        "": -32,
+        "": -16,
+        "": -8,
+        "": -7,
+        "": -6,
+        "": -5,
+        "": -4,
+        "": -3,
+        "": -2,
+        "": -1,
+        "": 1,
+        "": 2,
+        "": 3,
+        "": 4,
+        "": 5,
+        "": 6,
+        "": 7,
+        "": 8,
+        "": 16,
+        "": 32,
+        "": 64,
+        "": 128,
+        "": 256,
+        "": 512,
+        "": 1024
+      }
+    },
+    {
+      "type": "bitmap",
+      "file": "july1:animation/2024/carpet/0.png",
+      "ascent": 14,
+      "height": 14,
+      "chars": [
+        "၈"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "july1:animation/2024/carpet/1.png",
+      "ascent": 14,
+      "height": 14,
+      "chars": [
+        "၉"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "july1:animation/2024/carpet/2.png",
+      "ascent": 14,
+      "height": 14,
+      "chars": [
+        "၊"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "july1:animation/2024/carpet/3.png",
+      "ascent": 14,
+      "height": 14,
+      "chars": [
+        "။"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "july1:animation/2024/carpet/4.png",
+      "ascent": 14,
+      "height": 14,
+      "chars": [
+        "၌"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "july1:animation/2024/carpet/5.png",
+      "ascent": 14,
+      "height": 14,
+      "chars": [
+        "၍"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "july1:animation/2024/carpet/6.png",
+      "ascent": 0,
+      "height": 14,
+      "chars": [
+        "၎"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "july1:animation/2024/carpet/7.png",
+      "ascent": 0,
+      "height": 14,
+      "chars": [
+        "၏"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "july1:animation/2024/carpet/8.png",
+      "ascent": 0,
+      "height": 14,
+      "chars": [
+        "ၐ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "july1:animation/2024/carpet/9.png",
+      "ascent": 0,
+      "height": 14,
+      "chars": [
+        "ၑ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "july1:animation/2024/carpet/10.png",
+      "ascent": 0,
+      "height": 14,
+      "chars": [
+        "ၒ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "july1:animation/2024/carpet/11.png",
+      "ascent": 0,
+      "height": 14,
+      "chars": [
+        "ၓ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "july1:animation/2024/carpet/12.png",
+      "ascent": -14,
+      "height": 14,
+      "chars": [
+        "ၔ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "july1:animation/2024/carpet/13.png",
+      "ascent": -14,
+      "height": 14,
+      "chars": [
+        "ၕ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "july1:animation/2024/carpet/14.png",
+      "ascent": -14,
+      "height": 14,
+      "chars": [
+        "ၖ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "july1:animation/2024/carpet/15.png",
+      "ascent": -14,
+      "height": 14,
+      "chars": [
+        "ၗ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "july1:animation/2024/carpet/16.png",
+      "ascent": -14,
+      "height": 14,
+      "chars": [
+        "ၘ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "july1:animation/2024/carpet/17.png",
+      "ascent": -14,
+      "height": 14,
+      "chars": [
+        "ၙ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "july1:animation/2024/carpet/18.png",
+      "ascent": -28,
+      "height": 14,
+      "chars": [
+        "ၚ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "july1:animation/2024/carpet/19.png",
+      "ascent": -28,
+      "height": 14,
+      "chars": [
+        "ၛ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "july1:animation/2024/carpet/20.png",
+      "ascent": -28,
+      "height": 14,
+      "chars": [
+        "ၜ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "july1:animation/2024/carpet/21.png",
+      "ascent": -28,
+      "height": 14,
+      "chars": [
+        "ၝ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "july1:animation/2024/carpet/22.png",
+      "ascent": -28,
+      "height": 14,
+      "chars": [
+        "ၞ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "july1:animation/2024/carpet/23.png",
+      "ascent": -28,
+      "height": 14,
+      "chars": [
+        "ၟ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "july1:animation/2024/carpet/24.png",
+      "ascent": -42,
+      "height": 14,
+      "chars": [
+        "ၠ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "july1:animation/2024/carpet/25.png",
+      "ascent": -42,
+      "height": 14,
+      "chars": [
+        "ၡ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "july1:animation/2024/carpet/26.png",
+      "ascent": -42,
+      "height": 14,
+      "chars": [
+        "ၢ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "july1:animation/2024/carpet/27.png",
+      "ascent": -42,
+      "height": 14,
+      "chars": [
+        "ၣ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "july1:animation/2024/carpet/28.png",
+      "ascent": -42,
+      "height": 14,
+      "chars": [
+        "ၤ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "july1:animation/2024/carpet/29.png",
+      "ascent": -42,
+      "height": 14,
+      "chars": [
+        "ၥ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "july1:animation/2024/carpet/30.png",
+      "ascent": -56,
+      "height": 14,
+      "chars": [
+        "ၦ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "july1:animation/2024/carpet/31.png",
+      "ascent": -56,
+      "height": 14,
+      "chars": [
+        "ၧ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "july1:animation/2024/carpet/32.png",
+      "ascent": -56,
+      "height": 14,
+      "chars": [
+        "ၨ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "july1:animation/2024/carpet/33.png",
+      "ascent": -56,
+      "height": 14,
+      "chars": [
+        "ၩ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "july1:animation/2024/carpet/34.png",
+      "ascent": -56,
+      "height": 14,
+      "chars": [
+        "ၪ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "july1:animation/2024/carpet/35.png",
+      "ascent": -56,
+      "height": 14,
+      "chars": [
+        "ၫ"
+      ]
+    }
+  ]
+}

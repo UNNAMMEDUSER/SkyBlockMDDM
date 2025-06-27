@@ -1,0 +1,7 @@
+{
+	"credit": "Dareda",
+	"parent": "electricity:block/overclock_mech",
+	"textures": {
+		"0": "electricity:block/washing_machine/0"
+	}
+}

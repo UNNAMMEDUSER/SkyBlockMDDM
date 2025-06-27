@@ -1,0 +1,36 @@
+{
+    "pack": {
+        "pack_format": 15,
+		"supported_formats": [15, 46],
+        "description": [
+			{
+				"text": "SkyBlockM",
+				"color": "#BEFF01"
+			},
+			{
+				"text": " | ",
+				"color": "#FFFFFF"
+			},
+			{
+				"text": "By LeonidM, Dareda, levnemcev, Miwo4ka",
+				"color": "#6C9000"
+			}
+		]
+    },
+	"overlays": {
+		"entries": [
+			{
+				"directory": "1_20_5",
+				"formats": [32, 999999]
+			},
+			{
+				"directory": "1_21_2",
+				"formats": [42, 999999]
+			},
+			{
+				"directory": "1_21_4",
+				"formats": [46, 999999]
+			}
+		]
+	}
+}

@@ -1,0 +1,12 @@
+{
+  "providers": [
+    { "type": "bitmap", "file": "quests:gui/main.png", "ascent": 19, "height": 256, "chars": [ "\u0100" ] },
+    { "type": "bitmap", "file": "quests:gui/shop.png", "ascent": 19, "height": 256, "chars": [ "\u0101" ] },
+    { "type": "bitmap", "file": "quests:gui/quest_pass.png", "ascent": 19, "height": 256, "chars": [ "\u0102" ] },
+    { "type": "bitmap", "file": "quests:gui/quest_pass_last_page.png", "ascent": 19, "height": 256, "chars": [ "\u0103" ] },
+    { "type": "bitmap", "file": "quests:gui/quest_pass_plus_ad_left.png", "ascent": 13, "height": 128, "chars": [ "\u0104" ] },
+    { "type": "bitmap", "file": "quests:gui/quest_pass_plus_ad_right.png", "ascent": 13, "height": 128, "chars": [ "\u0105" ] },
+
+    { "type": "bitmap", "file": "quests:gui/chest_craft_page.png", "ascent": 19, "height": 256, "chars": ["\u1000"]}
+  ]
+}

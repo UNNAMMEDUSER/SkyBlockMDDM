@@ -1,0 +1,8 @@
+{
+	"credit": "Dareda + levnemcev",
+	"parent": "steam:block/metal_molder",
+	"textures": {
+		"0": "steam:block/metal_molder_on",
+		"particle": "steam:block/metal_molder_on"
+	}
+}

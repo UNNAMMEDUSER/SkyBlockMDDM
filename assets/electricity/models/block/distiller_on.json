@@ -1,0 +1,7 @@
+{
+	"credit": "levnemcev",
+	"parent": "electricity:block/distiller",
+	"textures": {
+		"0": "electricity:block/distiller_on"
+	}
+}

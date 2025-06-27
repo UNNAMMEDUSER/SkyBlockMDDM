@@ -1,0 +1,7 @@
+{
+	"credit": "levnemcev",
+	"parent": "electricity:block/filler",
+	"textures": {
+		"0": "electricity:block/filler_on"
+	}
+}

@@ -1,0 +1,41 @@
+{
+	"credit": "levnemcev",
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "customization:item/drill/jackhammer"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [75.94, 0.19, 44.53],
+			"translation": [-6.5, -2, -2],
+			"scale": [1.7, 1.7, 0.85]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [75.94, 0.19, -44.53],
+			"translation": [-5.25, -2, -2],
+			"scale": [1.7, 1.7, 0.85]
+		},
+		"firstperson_righthand": {
+			"rotation": [-172, 0, -134],
+			"translation": [-8.37, -1.75, 0.25],
+			"scale": [1.6, 1.6, 0.68]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-172, 0, 134],
+			"translation": [-9.62, -1.75, 0.25],
+			"scale": [1.6, 1.6, 0.68]
+		},
+		"ground": {
+			"scale": [1.1, 1.1, 0.6]
+		},
+		"gui": {
+			"translation": [0, 1, 0],
+			"scale": [1.8, 1.8, 1.2]
+		},
+		"fixed": {
+			"rotation": [0, -180, 0],
+			"translation": [-0.25, 1.25, 0],
+			"scale": [1.2, 1.2, 1]
+		}
+	}
+}

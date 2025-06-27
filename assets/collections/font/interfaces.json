@@ -1,0 +1,6 @@
+{
+  "providers": [
+    { "type": "bitmap", "file": "collections:gui/all.png", "ascent": 19, "height": 256, "chars": [ "\u0001" ] },
+    { "type": "bitmap", "file": "collections:gui/single.png", "ascent": 19, "height": 256, "chars": [ "\u0002" ] }
+  ]
+}

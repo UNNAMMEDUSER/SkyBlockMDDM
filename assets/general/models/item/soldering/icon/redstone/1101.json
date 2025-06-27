@@ -1,0 +1,6 @@
+{
+	"parent": "general:item/soldering/icon/redstone/1111",
+	"textures": {
+		"layer0": "general:item/soldering/icon/redstone/1101"
+	}
+}

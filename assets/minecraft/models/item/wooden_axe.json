@@ -1,0 +1,11 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "minecraft:item/wooden_axe"
+    },
+    "overrides": [
+        { "predicate": { "custom_model_data": 1000100 }, "model": "customization:item/axe/sculk" },
+        { "predicate": { "custom_model_data": 1000101 }, "model": "customization:item/axe/amethyst" },
+        { "predicate": { "custom_model_data": 1000102 }, "model": "customization:item/axe/mossy" }
+    ]
+}

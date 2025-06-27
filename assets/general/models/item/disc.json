@@ -1,0 +1,7 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "general:item/disc_layer_0",
+		"layer1": "general:item/disc_layer_1"
+	}
+}

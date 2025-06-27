@@ -1,0 +1,7 @@
+{
+	"parent": "general:block/blast_furnace/bricks",
+	"textures": {
+		"1": "general:block/blast_furnace/bricks_on",
+		"particle": "general:block/blast_furnace/bricks_on"
+	}
+}

@@ -1,0 +1,21 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "minecraft:item/iron_hoe"
+    },
+    "overrides": [
+        { "predicate": { "custom_model_data": 1 }, "model": "mechsandtechs:item/wrench" },
+        { "predicate": { "custom_model_data": 2 }, "model": "mechsandtechs:item/advanced_wrench" },
+
+        { "predicate": { "custom_model_data": 100 }, "model": "general:item/sledgehammer/iron" },
+
+        { "predicate": { "custom_model_data": 110 }, "model": "general:item/resource/bronze/hoe" },
+
+        { "predicate": { "custom_model_data": 200 }, "model": "electricity:item/rotor/wooden" },
+        { "predicate": { "custom_model_data": 201 }, "model": "electricity:item/rotor/iron" },
+        { "predicate": { "custom_model_data": 202 }, "model": "electricity:item/rotor/steel" },
+        { "predicate": { "custom_model_data": 203 }, "model": "electricity:item/rotor/carbon" },
+
+        { "predicate": { "custom_model_data": 300 }, "model": "bees:item/diamond_knife" }
+    ]
+}

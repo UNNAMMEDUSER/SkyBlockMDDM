@@ -1,0 +1,7 @@
+{
+	"credit": "levnemcev",
+	"parent": "electricity:block/chemical_reactor",
+	"textures": {
+		"0": "electricity:block/chemical_reactor_on"
+	}
+}

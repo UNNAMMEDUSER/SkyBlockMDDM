@@ -1,0 +1,363 @@
+{
+  "providers": [
+	{
+      "type": "space",
+      "advances": {
+        "": -1024,
+        "": -512,
+        "": -256,
+        "": -128,
+        "": -64,
+        "": -32,
+        "": -16,
+        "": -8,
+        "": -7,
+        "": -6,
+        "": -5,
+        "": -4,
+        "": -3,
+        "": -2,
+        "": -1,
+        "": 1,
+        "": 2,
+        "": 3,
+        "": 4,
+        "": 5,
+        "": 6,
+        "": 7,
+        "": 8,
+        "": 16,
+        "": 32,
+        "": 64,
+        "": 128,
+        "": 256,
+        "": 512,
+        "": 1024
+      }
+    },
+    {
+      "type": "bitmap",
+      "file": "july1:animation/2024/puzzle/0.png",
+      "ascent": 11,
+      "height": 11,
+      "chars": [
+        "ဤ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "july1:animation/2024/puzzle/1.png",
+      "ascent": 11,
+      "height": 11,
+      "chars": [
+        "ဥ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "july1:animation/2024/puzzle/2.png",
+      "ascent": 11,
+      "height": 11,
+      "chars": [
+        "ဦ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "july1:animation/2024/puzzle/3.png",
+      "ascent": 11,
+      "height": 11,
+      "chars": [
+        "ဧ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "july1:animation/2024/puzzle/4.png",
+      "ascent": 11,
+      "height": 11,
+      "chars": [
+        "ဨ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "july1:animation/2024/puzzle/5.png",
+      "ascent": 11,
+      "height": 11,
+      "chars": [
+        "ဩ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "july1:animation/2024/puzzle/6.png",
+      "ascent": 0,
+      "height": 11,
+      "chars": [
+        "ဪ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "july1:animation/2024/puzzle/7.png",
+      "ascent": 0,
+      "height": 11,
+      "chars": [
+        "ါ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "july1:animation/2024/puzzle/8.png",
+      "ascent": 0,
+      "height": 11,
+      "chars": [
+        "ာ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "july1:animation/2024/puzzle/9.png",
+      "ascent": 0,
+      "height": 11,
+      "chars": [
+        "ိ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "july1:animation/2024/puzzle/10.png",
+      "ascent": 0,
+      "height": 11,
+      "chars": [
+        "ီ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "july1:animation/2024/puzzle/11.png",
+      "ascent": 0,
+      "height": 11,
+      "chars": [
+        "ု"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "july1:animation/2024/puzzle/12.png",
+      "ascent": -11,
+      "height": 11,
+      "chars": [
+        "ူ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "july1:animation/2024/puzzle/13.png",
+      "ascent": -11,
+      "height": 11,
+      "chars": [
+        "ေ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "july1:animation/2024/puzzle/14.png",
+      "ascent": -11,
+      "height": 11,
+      "chars": [
+        "ဲ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "july1:animation/2024/puzzle/15.png",
+      "ascent": -11,
+      "height": 11,
+      "chars": [
+        "ဳ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "july1:animation/2024/puzzle/16.png",
+      "ascent": -11,
+      "height": 11,
+      "chars": [
+        "ဴ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "july1:animation/2024/puzzle/17.png",
+      "ascent": -11,
+      "height": 11,
+      "chars": [
+        "ဵ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "july1:animation/2024/puzzle/18.png",
+      "ascent": -22,
+      "height": 11,
+      "chars": [
+        "ံ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "july1:animation/2024/puzzle/19.png",
+      "ascent": -22,
+      "height": 11,
+      "chars": [
+        "့"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "july1:animation/2024/puzzle/20.png",
+      "ascent": -22,
+      "height": 11,
+      "chars": [
+        "း"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "july1:animation/2024/puzzle/21.png",
+      "ascent": -22,
+      "height": 11,
+      "chars": [
+        "္"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "july1:animation/2024/puzzle/22.png",
+      "ascent": -22,
+      "height": 11,
+      "chars": [
+        "်"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "july1:animation/2024/puzzle/23.png",
+      "ascent": -22,
+      "height": 11,
+      "chars": [
+        "ျ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "july1:animation/2024/puzzle/24.png",
+      "ascent": -33,
+      "height": 11,
+      "chars": [
+        "ြ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "july1:animation/2024/puzzle/25.png",
+      "ascent": -33,
+      "height": 11,
+      "chars": [
+        "ွ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "july1:animation/2024/puzzle/26.png",
+      "ascent": -33,
+      "height": 11,
+      "chars": [
+        "ှ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "july1:animation/2024/puzzle/27.png",
+      "ascent": -33,
+      "height": 11,
+      "chars": [
+        "ဿ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "july1:animation/2024/puzzle/28.png",
+      "ascent": -33,
+      "height": 11,
+      "chars": [
+        "၀"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "july1:animation/2024/puzzle/29.png",
+      "ascent": -33,
+      "height": 11,
+      "chars": [
+        "၁"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "july1:animation/2024/puzzle/30.png",
+      "ascent": -44,
+      "height": 11,
+      "chars": [
+        "၂"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "july1:animation/2024/puzzle/31.png",
+      "ascent": -44,
+      "height": 11,
+      "chars": [
+        "၃"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "july1:animation/2024/puzzle/32.png",
+      "ascent": -44,
+      "height": 11,
+      "chars": [
+        "၄"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "july1:animation/2024/puzzle/33.png",
+      "ascent": -44,
+      "height": 11,
+      "chars": [
+        "၅"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "july1:animation/2024/puzzle/34.png",
+      "ascent": -44,
+      "height": 11,
+      "chars": [
+        "၆"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "july1:animation/2024/puzzle/35.png",
+      "ascent": -44,
+      "height": 11,
+      "chars": [
+        "၇"
+      ]
+    }
+  ]
+}

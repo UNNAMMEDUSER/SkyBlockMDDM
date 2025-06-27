@@ -1,0 +1,7 @@
+{
+	"credit": "levnemcev",
+	"parent": "electricity:block/hammer",
+	"textures": {
+		"0": "electricity:block/hammer_on"
+	}
+}

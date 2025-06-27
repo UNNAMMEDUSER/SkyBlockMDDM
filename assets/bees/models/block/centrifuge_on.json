@@ -1,0 +1,7 @@
+{
+	"credit": "Dareda",
+	"parent": "bees:block/centrifuge",
+	"textures": {
+		"0": "bees:block/centrifuge_on"
+	}
+}

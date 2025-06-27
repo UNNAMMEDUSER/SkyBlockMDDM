@@ -1,0 +1,8 @@
+{
+	"credit": "Dareda + levnemcev",
+    "parent": "steam:block/water_pump/0",
+	"textures": {
+        "1": "steam:block/water_pump/3",
+		"particle": "steam:block/water_pump/3"
+	}
+}

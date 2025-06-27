@@ -1,0 +1,8 @@
+{
+	"credit": "levnemcev",
+	"parent": "general:block/text_monitor",
+	"textures": {
+		"0": "general:block/text_monitor_extender",
+		"particle": "general:block/text_monitor_extender"
+	}
+}

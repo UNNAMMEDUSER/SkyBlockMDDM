@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/barrel",
+  "overrides": [
+    { "predicate": { "custom_model_data": 100 }, "model": "skyblock:block/mech/pulverizer" }
+  ]
+}

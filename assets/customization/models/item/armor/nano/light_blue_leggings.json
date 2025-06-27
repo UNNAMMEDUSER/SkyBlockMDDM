@@ -1,0 +1,7 @@
+{
+	"credit": "levnemcev",
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "customization:item/armor/nano/light_blue_leggings"
+	}
+}

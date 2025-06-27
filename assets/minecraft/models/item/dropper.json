@@ -1,0 +1,62 @@
+{
+  "parent": "minecraft:block/dropper",
+  "overrides": [
+    { "predicate": { "custom_model_data": 10 }, "model": "skyblock:block/mech/placer/1/up" },
+    { "predicate": { "custom_model_data": 11 }, "model": "skyblock:block/mech/placer/1/down" },
+    { "predicate": { "custom_model_data": 12 }, "model": "skyblock:block/mech/placer/1/north" },
+    { "predicate": { "custom_model_data": 13 }, "model": "skyblock:block/mech/placer/1/east" },
+    { "predicate": { "custom_model_data": 14 }, "model": "skyblock:block/mech/placer/1/south" },
+    { "predicate": { "custom_model_data": 15 }, "model": "skyblock:block/mech/placer/1/west" },
+
+    { "predicate": { "custom_model_data": 20 }, "model": "skyblock:block/mech/placer/2/up" },
+    { "predicate": { "custom_model_data": 21 }, "model": "skyblock:block/mech/placer/2/down" },
+    { "predicate": { "custom_model_data": 22 }, "model": "skyblock:block/mech/placer/2/north" },
+    { "predicate": { "custom_model_data": 23 }, "model": "skyblock:block/mech/placer/2/east" },
+    { "predicate": { "custom_model_data": 24 }, "model": "skyblock:block/mech/placer/2/south" },
+    { "predicate": { "custom_model_data": 25 }, "model": "skyblock:block/mech/placer/2/west" },
+
+    { "predicate": { "custom_model_data": 30 }, "model": "skyblock:block/mech/placer/3/up" },
+    { "predicate": { "custom_model_data": 31 }, "model": "skyblock:block/mech/placer/3/down" },
+    { "predicate": { "custom_model_data": 32 }, "model": "skyblock:block/mech/placer/3/north" },
+    { "predicate": { "custom_model_data": 33 }, "model": "skyblock:block/mech/placer/3/east" },
+    { "predicate": { "custom_model_data": 34 }, "model": "skyblock:block/mech/placer/3/south" },
+    { "predicate": { "custom_model_data": 35 }, "model": "skyblock:block/mech/placer/3/west" },
+    
+    { "predicate": { "custom_model_data": 40 }, "model": "skyblock:block/mech/placer/4/up" },
+    { "predicate": { "custom_model_data": 41 }, "model": "skyblock:block/mech/placer/4/down" },
+    { "predicate": { "custom_model_data": 42 }, "model": "skyblock:block/mech/placer/4/north" },
+    { "predicate": { "custom_model_data": 43 }, "model": "skyblock:block/mech/placer/4/east" },
+    { "predicate": { "custom_model_data": 44 }, "model": "skyblock:block/mech/placer/4/south" },
+    { "predicate": { "custom_model_data": 45 }, "model": "skyblock:block/mech/placer/4/west" },
+
+    { "predicate": { "custom_model_data": 50 }, "model": "skyblock:block/mech/breaker/1/up" },
+    { "predicate": { "custom_model_data": 51 }, "model": "skyblock:block/mech/breaker/1/down" },
+    { "predicate": { "custom_model_data": 52 }, "model": "skyblock:block/mech/breaker/1/north" },
+    { "predicate": { "custom_model_data": 53 }, "model": "skyblock:block/mech/breaker/1/east" },
+    { "predicate": { "custom_model_data": 54 }, "model": "skyblock:block/mech/breaker/1/south" },
+    { "predicate": { "custom_model_data": 55 }, "model": "skyblock:block/mech/breaker/1/west" },
+
+    { "predicate": { "custom_model_data": 60 }, "model": "skyblock:block/mech/breaker/2/up" },
+    { "predicate": { "custom_model_data": 61 }, "model": "skyblock:block/mech/breaker/2/down" },
+    { "predicate": { "custom_model_data": 62 }, "model": "skyblock:block/mech/breaker/2/north" },
+    { "predicate": { "custom_model_data": 63 }, "model": "skyblock:block/mech/breaker/2/east" },
+    { "predicate": { "custom_model_data": 64 }, "model": "skyblock:block/mech/breaker/2/south" },
+    { "predicate": { "custom_model_data": 65 }, "model": "skyblock:block/mech/breaker/2/west" },
+
+    { "predicate": { "custom_model_data": 70 }, "model": "skyblock:block/mech/breaker/3/up" },
+    { "predicate": { "custom_model_data": 71 }, "model": "skyblock:block/mech/breaker/3/down" },
+    { "predicate": { "custom_model_data": 72 }, "model": "skyblock:block/mech/breaker/3/north" },
+    { "predicate": { "custom_model_data": 73 }, "model": "skyblock:block/mech/breaker/3/east" },
+    { "predicate": { "custom_model_data": 74 }, "model": "skyblock:block/mech/breaker/3/south" },
+    { "predicate": { "custom_model_data": 75 }, "model": "skyblock:block/mech/breaker/3/west" },
+
+    { "predicate": { "custom_model_data": 80 }, "model": "skyblock:block/mech/breaker/4/up" },
+    { "predicate": { "custom_model_data": 81 }, "model": "skyblock:block/mech/breaker/4/down" },
+    { "predicate": { "custom_model_data": 82 }, "model": "skyblock:block/mech/breaker/4/north" },
+    { "predicate": { "custom_model_data": 83 }, "model": "skyblock:block/mech/breaker/4/east" },
+    { "predicate": { "custom_model_data": 84 }, "model": "skyblock:block/mech/breaker/4/south" },
+    { "predicate": { "custom_model_data": 85 }, "model": "skyblock:block/mech/breaker/4/west" },
+
+    { "predicate": { "custom_model_data": 100 }, "model": "general:block/safe" }
+  ]
+}

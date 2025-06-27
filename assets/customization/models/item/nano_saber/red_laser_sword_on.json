@@ -1,0 +1,6 @@
+{
+    "parent": "customization:item/nano_saber/red_laser_sword",
+    "textures": {
+        "layer0": "customization:item/nano_saber/red_laser_sword_on"
+    }
+}

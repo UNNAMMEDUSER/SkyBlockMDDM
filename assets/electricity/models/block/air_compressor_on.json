@@ -1,0 +1,7 @@
+{
+	"credit": "TENAR",
+	"parent": "electricity:block/air_compressor",
+	"textures": {
+		"0": "electricity:block/air_compressor_on"
+	}
+}

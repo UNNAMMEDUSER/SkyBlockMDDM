@@ -1,0 +1,24 @@
+{
+  "providers": [
+    { "type": "bitmap", "file": "donates:gui/main.png", "ascent": 19, "height": 256, "chars": [ "\u0100" ] },
+    { "type": "bitmap", "file": "donates:gui/tools.png", "ascent": 19, "height": 256, "chars": [ "\u0101" ] },
+    { "type": "bitmap", "file": "donates:gui/steam.png", "ascent": 19, "height": 256, "chars": [ "\u0102" ] },
+    { "type": "bitmap", "file": "donates:gui/electricity.png", "ascent": 19, "height": 256, "chars": [ "\u0103" ] },
+    { "type": "bitmap", "file": "donates:gui/misc.png", "ascent": 19, "height": 256, "chars": [ "\u0104" ] },
+    { "type": "bitmap", "file": "donates:gui/modules.png", "ascent": 19, "height": 256, "chars": [ "\u0105" ] },
+    { "type": "bitmap", "file": "donates:gui/customization.png", "ascent": 19, "height": 256, "chars": [ "\u0106" ] },
+    { "type": "bitmap", "file": "donates:gui/electric_storage.png", "ascent": 19, "height": 256, "chars": [ "\u0107" ] },
+    { "type": "bitmap", "file": "donates:gui/quantum.png", "ascent": 19, "height": 256, "chars": [ "\u0108" ] },
+    { "type": "bitmap", "file": "donates:gui/electricity_multiblock.png", "ascent": 19, "height": 256, "chars": [ "\u0109" ] },
+    { "type": "bitmap", "file": "donates:gui/electricity_mechs.png", "ascent": 19, "height": 256, "chars": [ "\u010A" ] },
+    { "type": "bitmap", "file": "donates:gui/electricity_sources.png", "ascent": 19, "height": 256, "chars": [ "\u010B" ] },
+    { "type": "bitmap", "file": "donates:gui/privileges.png", "ascent": 19, "height": 256, "chars": [ "\u010C" ] },
+
+    { "type": "bitmap", "file": "donates:gui/chat/suffixes.png", "ascent": 19, "height": 256, "chars": [ "\u0110" ] },
+    { "type": "bitmap", "file": "donates:gui/chat/prefixes.png", "ascent": 19, "height": 256, "chars": [ "\u0111" ] },
+    { "type": "bitmap", "file": "donates:gui/chat/nickname_colors.png", "ascent": 19, "height": 256, "chars": [ "\u0112" ] },
+    { "type": "bitmap", "file": "donates:gui/chat/backgrounds.png", "ascent": 19, "height": 256, "chars": [ "\u0113" ] },
+
+    { "type": "bitmap", "file": "donates:gui/conversion.png", "ascent": 19, "height": 256, "chars": [ "\u0200" ] }
+  ]
+}

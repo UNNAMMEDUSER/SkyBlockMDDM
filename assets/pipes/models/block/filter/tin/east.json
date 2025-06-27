@@ -1,0 +1,23 @@
+{
+	"credit": "Dareda",
+	"parent": "mechsandtechs:block/root",
+	"textures": {
+		"0": "pipes:block/filter/tin",
+		"particle": "pipes:block/filter/tin"
+	},
+	"elements": [
+		{
+			"name": "East",
+			"from": [0, 4, 4],
+			"to": [4, 12, 12],
+			"faces": {
+				"north": {"uv": [0, 0, 8, 4], "rotation": 90, "texture": "#0"},
+				"east": {"uv": [8, 0, 16, 8], "texture": "#0"},
+				"south": {"uv": [0, 0, 8, 4], "rotation": 270, "texture": "#0"},
+				"west": {"uv": [8, 0, 16, 8], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [0, 0, 8, 4], "rotation": 270, "texture": "#0"},
+				"down": {"uv": [0, 0, 8, 4], "rotation": 270, "texture": "#0"}
+			}
+		}
+	]
+}

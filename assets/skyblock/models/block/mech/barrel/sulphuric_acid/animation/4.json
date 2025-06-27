@@ -1,0 +1,6 @@
+{
+	"parent": "skyblock:block/mech/barrel/sulphuric_acid/animation/1",
+	"textures": {
+		"3": "skyblock:block/mech/fluid/animation/sulphuric_acid/4"
+	}
+}

@@ -1,0 +1,63 @@
+{
+  "parent": "minecraft:item/handheld_rod",
+  "textures": {
+    "layer0": "minecraft:item/fishing_rod"
+  },
+  "overrides": [
+    { "predicate": { "cast": 1 }, "model": "minecraft:item/fishing_rod_cast" },
+
+    { "predicate": { "custom_model_data": 100 }, "model": "general:item/iron_cutting_blade" },
+    { "predicate": { "custom_model_data": 101 }, "model": "general:item/diamond_cutting_blade" },
+    { "predicate": { "custom_model_data": 110 }, "model": "general:item/artists_brush" },
+
+    { "predicate": { "custom_model_data": 200 }, "model": "electricity:item/small_accumulator" },
+    { "predicate": { "custom_model_data": 201 }, "model": "electricity:item/accumulator" },
+    { "predicate": { "custom_model_data": 202 }, "model": "electricity:item/big_accumulator" },
+
+    { "predicate": { "custom_model_data": 500 }, "model": "electric_storage:item/item_storage_cell_1k" },
+    { "predicate": { "custom_model_data": 501 }, "model": "electric_storage:item/item_storage_cell_4k" },
+    { "predicate": { "custom_model_data": 502 }, "model": "electric_storage:item/item_storage_cell_16k" },
+    { "predicate": { "custom_model_data": 503 }, "model": "electric_storage:item/item_storage_cell_64k" },
+
+    { "predicate": { "custom_model_data": 510 }, "model": "electric_storage:item/fluid_storage_cell_1k" },
+    { "predicate": { "custom_model_data": 511 }, "model": "electric_storage:item/fluid_storage_cell_4k" },
+    { "predicate": { "custom_model_data": 512 }, "model": "electric_storage:item/fluid_storage_cell_16k" },
+    { "predicate": { "custom_model_data": 513 }, "model": "electric_storage:item/fluid_storage_cell_64k" },
+
+    { "predicate": { "custom_model_data": 10000 }, "model": "bees:item/frame/wooden/empty" },
+    { "predicate": { "custom_model_data": 10001 }, "model": "bees:item/frame/wooden/honey" },
+    { "predicate": { "custom_model_data": 10002 }, "model": "bees:item/frame/wooden/viscous" },
+    { "predicate": { "custom_model_data": 10003 }, "model": "bees:item/frame/wooden/silk" },
+    { "predicate": { "custom_model_data": 10004 }, "model": "bees:item/frame/wooden/fire" },
+    { "predicate": { "custom_model_data": 10005 }, "model": "bees:item/frame/wooden/coral" },
+    { "predicate": { "custom_model_data": 10006 }, "model": "bees:item/frame/wooden/imperial" },
+    { "predicate": { "custom_model_data": 10007 }, "model": "bees:item/frame/wooden/ice" },
+
+    { "predicate": { "custom_model_data": 10100 }, "model": "bees:item/frame/bronze/empty" },
+    { "predicate": { "custom_model_data": 10101 }, "model": "bees:item/frame/bronze/honey" },
+    { "predicate": { "custom_model_data": 10102 }, "model": "bees:item/frame/bronze/viscous" },
+    { "predicate": { "custom_model_data": 10103 }, "model": "bees:item/frame/bronze/silk" },
+    { "predicate": { "custom_model_data": 10104 }, "model": "bees:item/frame/bronze/fire" },
+    { "predicate": { "custom_model_data": 10105 }, "model": "bees:item/frame/bronze/coral" },
+    { "predicate": { "custom_model_data": 10106 }, "model": "bees:item/frame/bronze/imperial" },
+    { "predicate": { "custom_model_data": 10107 }, "model": "bees:item/frame/bronze/ice" },
+
+    { "predicate": { "custom_model_data": 10200 }, "model": "bees:item/frame/iron/empty" },
+    { "predicate": { "custom_model_data": 10201 }, "model": "bees:item/frame/iron/honey" },
+    { "predicate": { "custom_model_data": 10202 }, "model": "bees:item/frame/iron/viscous" },
+    { "predicate": { "custom_model_data": 10203 }, "model": "bees:item/frame/iron/silk" },
+    { "predicate": { "custom_model_data": 10204 }, "model": "bees:item/frame/iron/fire" },
+    { "predicate": { "custom_model_data": 10205 }, "model": "bees:item/frame/iron/coral" },
+    { "predicate": { "custom_model_data": 10206 }, "model": "bees:item/frame/iron/imperial" },
+    { "predicate": { "custom_model_data": 10207 }, "model": "bees:item/frame/iron/ice" },
+
+    { "predicate": { "custom_model_data": 10300 }, "model": "bees:item/frame/diamond/empty" },
+    { "predicate": { "custom_model_data": 10301 }, "model": "bees:item/frame/diamond/honey" },
+    { "predicate": { "custom_model_data": 10302 }, "model": "bees:item/frame/diamond/viscous" },
+    { "predicate": { "custom_model_data": 10303 }, "model": "bees:item/frame/diamond/silk" },
+    { "predicate": { "custom_model_data": 10304 }, "model": "bees:item/frame/diamond/fire" },
+    { "predicate": { "custom_model_data": 10305 }, "model": "bees:item/frame/diamond/coral" },
+    { "predicate": { "custom_model_data": 10306 }, "model": "bees:item/frame/diamond/imperial" },
+    { "predicate": { "custom_model_data": 10307 }, "model": "bees:item/frame/diamond/ice" }
+  ]
+}

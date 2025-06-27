@@ -1,0 +1,6 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "quests:item/collection_old_sbm_1_chest"
+	}
+}

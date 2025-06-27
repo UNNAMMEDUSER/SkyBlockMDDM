@@ -1,0 +1,7 @@
+{
+	"credit": "levnemcev",
+	"parent": "electricity:block/extractor",
+	"textures": {
+		"0": "electricity:block/extractor_on"
+	}
+}

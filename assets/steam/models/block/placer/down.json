@@ -1,0 +1,8 @@
+{
+	"credit": "levnemcev",
+	"parent": "steam:block/placer/side",
+	"textures": {
+		"0": "steam:block/placer/down",
+		"particle": "steam:block/placer/down"
+	}
+}

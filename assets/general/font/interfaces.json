@@ -1,0 +1,18 @@
+{
+  "providers": [
+    { "type": "bitmap", "file": "general:gui/recording_station.png", "ascent": 19, "height": 256, "chars": [ "\u0001" ] },
+    { "type": "bitmap", "file": "general:gui/trash_can.png", "ascent": 19, "height": 256, "chars": [ "\u0002" ] },
+    { "type": "bitmap", "file": "general:gui/safe.png", "ascent": 19, "height": 256, "chars": [ "\u0003" ] },
+    { "type": "bitmap", "file": "general:gui/soldering_table.png", "ascent": 19, "height": 256, "chars": [ "\u0004" ] },
+
+    { "type": "bitmap", "file": "general:gui/vending_machine.png", "ascent": 19, "height": 256, "chars": [ "\u0010" ] },
+    { "type": "bitmap", "file": "general:gui/vending_machine_customer.png", "ascent": 19, "height": 256, "chars": [ "\u0011" ] },
+
+    { "type": "bitmap", "file": "general:gui/coke_oven.png", "ascent": 19, "height": 256, "chars": [ "\u0020" ] },
+    { "type": "bitmap", "file": "general:gui/blast_furnace.png", "ascent": 19, "height": 256, "chars": [ "\u0021" ] },
+    { "type": "bitmap", "file": "general:gui/coke_oven_gas_storage.png", "ascent": 19, "height": 256, "chars": [ "\u0022" ] },
+
+    { "type": "bitmap", "file": "general:gui/fluid_storage.png", "ascent": 19, "height": 256, "chars": [ "\u0030" ] },
+    { "type": "bitmap", "file": "general:gui/gas_storage.png", "ascent": 19, "height": 256, "chars": [ "\u0031" ] }
+  ]
+}

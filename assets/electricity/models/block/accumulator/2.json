@@ -1,0 +1,9 @@
+{
+	"credit": "Dareda",
+	"parent": "electricity:block/accumulator/1",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "electricity:block/accumulator/2",
+		"particle": "electricity:block/accumulator/2"
+	}
+}

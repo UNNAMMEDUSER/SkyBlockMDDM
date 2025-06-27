@@ -1,0 +1,6 @@
+{
+	"parent": "general:item/module/base_4",
+	"textures": {
+		"screen": "general:item/module/overclock/4"
+	}
+}

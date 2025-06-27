@@ -1,0 +1,7 @@
+{
+	"credit": "levnemcev",
+	"parent": "electricity:item/tool/drill",
+	"textures": {
+		"layer0": "customization:item/drill/diamond"
+	}
+}

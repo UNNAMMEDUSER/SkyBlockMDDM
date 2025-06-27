@@ -1,0 +1,37 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/chainmail_helmet"
+    },
+    "overrides": [
+        { "predicate": { "custom_model_data": 210 }, "model": "electricity:item/armor/nano/helmet" },
+
+        { "predicate": { "custom_model_data": 220 }, "model": "electricity:item/armor/quantum/helmet" },
+
+        { "predicate": { "custom_model_data": 300 }, "model": "bees:item/armor/apiarist_helmet" },
+
+
+        { "predicate": { "custom_model_data": 1002000 }, "model": "customization:item/armor/nano/red_helmet" },
+        { "predicate": { "custom_model_data": 1002001 }, "model": "customization:item/armor/nano/light_blue_helmet" },
+        { "predicate": { "custom_model_data": 1002002 }, "model": "customization:item/armor/nano/purple_helmet" },
+        { "predicate": { "custom_model_data": 1002003 }, "model": "customization:item/armor/nano/gray_helmet" },
+        { "predicate": { "custom_model_data": 1002004 }, "model": "customization:item/armor/nano/blue_helmet" },
+        { "predicate": { "custom_model_data": 1002005 }, "model": "customization:item/armor/nano/yellow_helmet" },
+
+        { "predicate": { "custom_model_data": 1002020 }, "model": "customization:item/armor/nano/steampunk_helmet" },
+        { "predicate": { "custom_model_data": 1002021 }, "model": "customization:item/armor/nano/uranium_helmet" },
+
+
+        { "predicate": { "custom_model_data": 1002100 }, "model": "customization:item/armor/quantum/red_helmet" },
+        { "predicate": { "custom_model_data": 1002101 }, "model": "customization:item/armor/quantum/light_blue_helmet" },
+        { "predicate": { "custom_model_data": 1002102 }, "model": "customization:item/armor/quantum/purple_helmet" },
+        { "predicate": { "custom_model_data": 1002103 }, "model": "customization:item/armor/quantum/gray_helmet" },
+        { "predicate": { "custom_model_data": 1002104 }, "model": "customization:item/armor/quantum/blue_helmet" },
+        { "predicate": { "custom_model_data": 1002105 }, "model": "customization:item/armor/quantum/yellow_helmet" },
+
+        { "predicate": { "custom_model_data": 1002120 }, "model": "customization:item/armor/quantum/steampunk_helmet" },
+        { "predicate": { "custom_model_data": 1002121 }, "model": "customization:item/armor/quantum/uranium_helmet" },
+		
+		{ "predicate": { "custom_model_data": 1002130 }, "model": "customization:item/armor/quantum/old_helmet" }
+    ]
+}

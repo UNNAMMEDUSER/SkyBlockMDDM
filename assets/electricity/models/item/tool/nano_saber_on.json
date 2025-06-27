@@ -1,0 +1,6 @@
+{
+    "parent": "electricity:item/tool/nano_saber",
+    "textures": {
+        "layer0": "electricity:item/tool/nano_saber_on"
+    }
+}

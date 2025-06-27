@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "general:block/mech_frame/0"
+    }
+  }

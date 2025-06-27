@@ -1,0 +1,31 @@
+{
+	"credit": "Miwo4ka",
+	"parent": "mechsandtechs:block/root",
+	"textures": {
+		"0": "electricity:block/vacuum_freezer/completed_side",
+		"1": "electricity:block/vacuum_freezer/completed_top",
+		"2": "electricity:block/vacuum_freezer/completed_front",
+		"particle": "electricity:block/vacuum_freezer/completed_side"
+	},
+	"elements": [
+		{
+			"from": [-16, -16, -16],
+			"to": [32, 32, 32],
+			"rotation": {"angle": 0, "axis": "y", "origin": [4, 8, 4]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#2"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"translation": [0, -14.67, 0],
+			"scale": [3.435, 3.435, 3.435]
+		}
+	}
+}

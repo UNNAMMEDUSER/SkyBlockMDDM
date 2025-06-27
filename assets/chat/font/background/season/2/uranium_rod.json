@@ -1,0 +1,28 @@
+{
+    "providers": [
+        { "type": "bitmap", "file": "chat:background/season/2/uranium_rod/1.png", "ascent": 8, "height": 10, "chars": [ "\u1001" ] },
+        { "type": "bitmap", "file": "chat:background/season/2/uranium_rod/2.png", "ascent": 8, "height": 10, "chars": [ "\u1002" ] },
+        { "type": "bitmap", "file": "chat:background/season/2/uranium_rod/3.png", "ascent": 8, "height": 10, "chars": [ "\u1003" ] },
+        { "type": "bitmap", "file": "chat:background/season/2/uranium_rod/4.png", "ascent": 8, "height": 10, "chars": [ "\u1004" ] },
+        { "type": "bitmap", "file": "chat:background/season/2/uranium_rod/5.png", "ascent": 8, "height": 10, "chars": [ "\u1005" ] },
+        { "type": "bitmap", "file": "chat:background/season/2/uranium_rod/6.png", "ascent": 8, "height": 10, "chars": [ "\u1006" ] },
+        { "type": "bitmap", "file": "chat:background/season/2/uranium_rod/7.png", "ascent": 8, "height": 10, "chars": [ "\u1007" ] },
+        { "type": "bitmap", "file": "chat:background/season/2/uranium_rod/8.png", "ascent": 8, "height": 10, "chars": [ "\u1008" ] },
+        { "type": "bitmap", "file": "chat:background/season/2/uranium_rod/9.png", "ascent": 8, "height": 10, "chars": [ "\u1009" ] },
+        { "type": "bitmap", "file": "chat:background/season/2/uranium_rod/10.png", "ascent": 8, "height": 10, "chars": [ "\u100A" ] },
+        { "type": "bitmap", "file": "chat:background/season/2/uranium_rod/11.png", "ascent": 8, "height": 11, "chars": [ "\u100B" ] },
+        { "type": "bitmap", "file": "chat:background/season/2/uranium_rod/12.png", "ascent": 8, "height": 12, "chars": [ "\u100C" ] },
+        { "type": "bitmap", "file": "chat:background/season/2/uranium_rod/13.png", "ascent": 8, "height": 13, "chars": [ "\u100D" ] },
+        { "type": "bitmap", "file": "chat:background/season/2/uranium_rod/14.png", "ascent": 8, "height": 14, "chars": [ "\u100E" ] },
+        { "type": "bitmap", "file": "chat:background/season/2/uranium_rod/15.png", "ascent": 8, "height": 15, "chars": [ "\u100F" ] },
+        { "type": "bitmap", "file": "chat:background/season/2/uranium_rod/16.png", "ascent": 8, "height": 16, "chars": [ "\u1010" ] },
+        { "type": "bitmap", "file": "chat:background/season/2/uranium_rod/17.png", "ascent": 8, "height": 17, "chars": [ "\u1011" ] },
+        { "type": "bitmap", "file": "chat:background/season/2/uranium_rod/18.png", "ascent": 8, "height": 18, "chars": [ "\u1012" ] },
+        { "type": "bitmap", "file": "chat:background/season/2/uranium_rod/19.png", "ascent": 8, "height": 19, "chars": [ "\u1013" ] },
+        { "type": "bitmap", "file": "chat:background/season/2/uranium_rod/20.png", "ascent": 8, "height": 20, "chars": [ "\u1014" ] },
+        { "type": "bitmap", "file": "chat:background/season/2/uranium_rod/21.png", "ascent": 8, "height": 21, "chars": [ "\u1015" ] },
+
+        { "type": "bitmap", "file": "chat:background/season/2/uranium_rod/prefix.png", "ascent": 8, "height": 10, "chars": [ "\u2000" ] },
+        { "type": "bitmap", "file": "chat:background/season/2/uranium_rod/suffix.png", "ascent": 8, "height": 10, "chars": [ "\u2001" ] }
+    ]
+}

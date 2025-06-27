@@ -1,0 +1,6 @@
+{
+	"parent": "skyblock:block/mech/barrel/water/2",
+	"textures": {
+		"3": "skyblock:block/mech/fluid/sulphuric_acid"
+	}
+}

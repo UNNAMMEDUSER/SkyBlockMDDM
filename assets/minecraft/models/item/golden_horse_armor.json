@@ -1,0 +1,26 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/golden_horse_armor"
+  },
+  "overrides": [
+    { "predicate": { "custom_model_data": 20000 }, "model": "bees:item/bee/common/queen" },
+    { "predicate": { "custom_model_data": 20001 }, "model": "bees:item/bee/cultivated/queen" },
+    { "predicate": { "custom_model_data": 20002 }, "model": "bees:item/bee/noble/queen" },
+    { "predicate": { "custom_model_data": 20003 }, "model": "bees:item/bee/majestic/queen" },
+    { "predicate": { "custom_model_data": 20004 }, "model": "bees:item/bee/conscientious/queen" },
+    { "predicate": { "custom_model_data": 20005 }, "model": "bees:item/bee/tireless/queen" },
+    { "predicate": { "custom_model_data": 20006 }, "model": "bees:item/bee/imperial/queen" },
+    { "predicate": { "custom_model_data": 20007 }, "model": "bees:item/bee/cave/queen" },
+    { "predicate": { "custom_model_data": 20008 }, "model": "bees:item/bee/coral/queen" },
+    { "predicate": { "custom_model_data": 20009 }, "model": "bees:item/bee/fire/queen" },
+    { "predicate": { "custom_model_data": 20010 }, "model": "bees:item/bee/demonic/queen" },
+    { "predicate": { "custom_model_data": 20011 }, "model": "bees:item/bee/infernal/queen" },
+    { "predicate": { "custom_model_data": 20012 }, "model": "bees:item/bee/diligent/queen" },
+    { "predicate": { "custom_model_data": 20013 }, "model": "bees:item/bee/hardworking/queen" },
+    { "predicate": { "custom_model_data": 20014 }, "model": "bees:item/bee/valiant/queen" },
+    { "predicate": { "custom_model_data": 20015 }, "model": "bees:item/bee/tropical/queen" },
+    { "predicate": { "custom_model_data": 20016 }, "model": "bees:item/bee/heavenly/queen" },
+    { "predicate": { "custom_model_data": 20017 }, "model": "bees:item/bee/ice/queen" }
+  ]
+}

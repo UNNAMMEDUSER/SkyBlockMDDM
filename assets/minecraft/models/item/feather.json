@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/feather"
+  },
+  "overrides": [
+    { "predicate": { "custom_model_data": 1000 }, "model": "collections:item/old/ic2/circuit" },
+    { "predicate": { "custom_model_data": 1001 }, "model": "collections:item/old/ic2/coin" },
+    { "predicate": { "custom_model_data": 1002 }, "model": "collections:item/old/ic2/electric_motor" },
+    { "predicate": { "custom_model_data": 1003 }, "model": "collections:item/old/ic2/industrial_diamond" },
+    { "predicate": { "custom_model_data": 1004 }, "model": "collections:item/old/ic2/resin" },
+    { "predicate": { "custom_model_data": 1005 }, "model": "collections:item/old/ic2/steel_plate" },
+    { "predicate": { "custom_model_data": 1006 }, "model": "collections:item/old/ic2/uu_matter" },
+    { "predicate": { "custom_model_data": 1007 }, "model": "collections:item/old/asp/ultimate_solar_panel" },
+    { "predicate": { "custom_model_data": 1008 }, "model": "collections:item/old/ae2/certus_quartz_crystal_charged" },
+    { "predicate": { "custom_model_data": 1009 }, "model": "collections:item/old/ae2/item_storage_cell_64k" },
+    { "predicate": { "custom_model_data": 1010 }, "model": "collections:item/old/ae2/singularity" },
+
+    { "predicate": { "custom_model_data": 1100 }, "model": "collections:item/old/sbm/skyblock_placer" },
+    { "predicate": { "custom_model_data": 1101 }, "model": "collections:item/old/sbm/skyblock_breaker" },
+    { "predicate": { "custom_model_data": 1102 }, "model": "collections:item/old/sbm/skyblock_filter_4" },
+    { "predicate": { "custom_model_data": 1103 }, "model": "collections:item/old/sbm/skyblock_sieve_4" },
+    { "predicate": { "custom_model_data": 1104 }, "model": "collections:item/old/sbm/skyblock_bronze_anvil" },
+    { "predicate": { "custom_model_data": 1120 }, "model": "collections:item/old/sbm/general_copper_wire" },
+    { "predicate": { "custom_model_data": 1121 }, "model": "collections:item/old/sbm/minecraft_lightning_rod" },
+    { "predicate": { "custom_model_data": 1122 }, "model": "collections:item/old/sbm/general_lead_solder" },
+    { "predicate": { "custom_model_data": 1140 }, "model": "collections:item/old/sbm/electricity_silica" },
+    { "predicate": { "custom_model_data": 1141 }, "model": "collections:item/old/sbm/electricity_block_frame_0" },
+    { "predicate": { "custom_model_data": 1142 }, "model": "collections:item/old/sbm/electricity_hopper_filter" },
+    { "predicate": { "custom_model_data": 1143 }, "model": "collections:item/old/sbm/electricity_advanced_crafting_table" },
+    { "predicate": { "custom_model_data": 1144 }, "model": "collections:item/old/sbm/electricity_electrolyte_accumulator_2" },
+    { "predicate": { "custom_model_data": 1160 }, "model": "collections:item/old/sbm/bees_phosphor" },
+    { "predicate": { "custom_model_data": 1161 }, "model": "collections:item/old/sbm/bees_nether_star_shard" }
+  ]
+}

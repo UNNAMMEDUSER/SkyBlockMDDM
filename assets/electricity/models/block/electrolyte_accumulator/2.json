@@ -1,0 +1,9 @@
+{
+	"parent": "electricity:block/electrolyte_accumulator/1",
+	"texture_size": [64, 32],
+	"textures": {
+		"0": "electricity:block/electrolyte_accumulator/2",
+		"1": "skyblock:block/mech/fluid/sulphuric_acid",
+		"particle": "electricity:block/electrolyte_accumulator/2"
+	}
+}

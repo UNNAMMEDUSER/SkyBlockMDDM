@@ -1,0 +1,8 @@
+{
+	"credit": "levnemcev",
+	"parent": "quantum:block/hopper",
+	"textures": {
+		"1": "quantum:block/hopper_on",
+		"particle": "quantum:block/hopper_on"
+	}
+}

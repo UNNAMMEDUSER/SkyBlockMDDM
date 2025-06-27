@@ -1,0 +1,6 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "quests:item/quest_pass_plus"
+	}
+}

@@ -1,0 +1,12 @@
+{
+  "providers": [
+    { "type": "bitmap", "file": "bees:gui/beehive.png", "ascent": 19, "height": 256, "chars": [ "\u0001" ] },
+
+    { "type": "bitmap", "file": "bees:gui/centrifuge.png", "ascent": 19, "height": 256, "chars": [ "\u0010" ] },
+    { "type": "bitmap", "file": "bees:gui/genes_analyzer.png", "ascent": 19, "height": 256, "chars": [ "\u0011" ] },
+    { "type": "bitmap", "file": "bees:gui/biome_changer.png", "ascent": 19, "height": 256, "chars": [ "\u0012" ] },
+    { "type": "bitmap", "file": "bees:gui/honeycomb_cutter.png", "ascent": 19, "height": 256, "chars": [ "\u0013" ] },
+
+    { "type": "bitmap", "file": "bees:gui/electric_beehive_core.png", "ascent": 19, "height": 256, "chars": [ "\u0100" ] }
+  ]
+}

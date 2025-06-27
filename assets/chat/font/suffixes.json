@@ -1,0 +1,53 @@
+{
+  "providers": [
+    { "type": "bitmap", "file": "chat:suffix/advancement/typo.png", "ascent": 7, "height": 8, "chars": [ "\u2000" ] },
+    { "type": "bitmap", "file": "chat:suffix/advancement/bug.png", "ascent": 7, "height": 8, "chars": [ "\u2001" ] },
+    { "type": "bitmap", "file": "chat:suffix/advancement/dupe.png", "ascent": 7, "height": 8, "chars": [ "\u2002" ] },
+
+    { "type": "bitmap", "file": "chat:suffix/advancement/builder.png", "ascent": 7, "height": 8, "chars": [ "\u2100" ] },
+    { "type": "bitmap", "file": "chat:suffix/advancement/musician.png", "ascent": 7, "height": 8, "chars": [ "\u2101" ] },
+
+    { "type": "bitmap", "file": "chat:suffix/advancement/plasmovoice.png", "ascent": 7, "height": 8, "chars": [ "\u2200" ] },
+
+    { "type": "bitmap", "file": "chat:suffix/advancement/bunker.png", "ascent": 7, "height": 8, "chars": [ "\u2300" ] },
+    { "type": "bitmap", "file": "chat:suffix/advancement/cybertrain.png", "ascent": 7, "height": 8, "chars": [ "\u2301" ] },
+
+
+    { "type": "bitmap", "file": "chat:suffix/donate/item/wrench.png", "ascent": 7, "height": 8, "chars": [ "\u3000" ] },
+    { "type": "bitmap", "file": "chat:suffix/donate/item/paintbrush.png", "ascent": 7, "height": 8, "chars": [ "\u3001" ] },
+    { "type": "bitmap", "file": "chat:suffix/donate/item/coins.png", "ascent": 7, "height": 8, "chars": [ "\u3002" ] },
+    { "type": "bitmap", "file": "chat:suffix/donate/item/crown.png", "ascent": 7, "height": 8, "chars": [ "\u3003" ] },
+    { "type": "bitmap", "file": "chat:suffix/donate/item/skull.png", "ascent": 7, "height": 8, "chars": [ "\u3004" ] },
+
+    { "type": "bitmap", "file": "chat:suffix/donate/item/burger.png", "ascent": 7, "height": 8, "chars": [ "\u3050" ] },
+    { "type": "bitmap", "file": "chat:suffix/donate/item/pizza.png", "ascent": 7, "height": 8, "chars": [ "\u3051" ] },
+    { "type": "bitmap", "file": "chat:suffix/donate/item/potion.png", "ascent": 7, "height": 8, "chars": [ "\u3052" ] },
+
+    { "type": "bitmap", "file": "chat:suffix/donate/animal/cat1.png", "ascent": 7, "height": 8, "chars": [ "\u3100" ] },
+    { "type": "bitmap", "file": "chat:suffix/donate/animal/cat2.png", "ascent": 7, "height": 8, "chars": [ "\u3101" ] },
+    { "type": "bitmap", "file": "chat:suffix/donate/animal/cat3.png", "ascent": 7, "height": 8, "chars": [ "\u3102" ] },
+    { "type": "bitmap", "file": "chat:suffix/donate/animal/dinosaur.png", "ascent": 7, "height": 8, "chars": [ "\u3103" ] },
+    { "type": "bitmap", "file": "chat:suffix/donate/animal/mouse.png", "ascent": 7, "height": 8, "chars": [ "\u3104" ] },
+    { "type": "bitmap", "file": "chat:suffix/donate/animal/bee.png", "ascent": 7, "height": 8, "chars": [ "\u3105" ] },
+
+    { "type": "bitmap", "file": "chat:suffix/donate/emoji/voltage.png", "ascent": 7, "height": 8, "chars": [ "\u3200" ] },
+    { "type": "bitmap", "file": "chat:suffix/donate/emoji/sparks.png", "ascent": 7, "height": 8, "chars": [ "\u3201" ] },
+
+    { "type": "bitmap", "file": "chat:suffix/donate/emoji/animated/thinking.png", "ascent": 7, "height": 8, "chars": [ "\u3250" ]},
+    { "type": "bitmap", "file": "chat:suffix/donate/emoji/animated/eye.png", "ascent": 7, "height": 8, "chars": [ "\u3251" ]},
+    { "type": "bitmap", "file": "chat:screen.png", "ascent": 7, "height": 13, "chars": [ "\u3260" ]},
+
+    { "type": "bitmap", "file": "chat:suffix/season/1/item/emerald.png", "ascent": 7, "height": 8, "chars": [ "\u4000" ] },
+    { "type": "bitmap", "file": "chat:suffix/season/1/item/redstone.png", "ascent": 7, "height": 8, "chars": [ "\u4001" ] },
+    { "type": "bitmap", "file": "chat:suffix/season/1/item/gear.png", "ascent": 7, "height": 8, "chars": [ "\u4002" ] },
+    { "type": "bitmap", "file": "chat:suffix/season/1/item/lamp.png", "ascent": 7, "height": 8, "chars": [ "\u4003" ] },
+
+    { "type": "bitmap", "file": "chat:suffix/season/1/block/grass_block.png", "ascent": 7, "height": 8, "chars": [ "\u4010" ] },
+    { "type": "bitmap", "file": "chat:suffix/season/1/block/mycelium.png", "ascent": 7, "height": 8, "chars": [ "\u4011" ] },
+    { "type": "bitmap", "file": "chat:suffix/season/1/block/tnt.png", "ascent": 7, "height": 8, "chars": [ "\u4012" ] },
+
+    { "type": "bitmap", "file": "chat:suffix/season/2/uranium_rod.png", "ascent": 7, "height": 8, "chars": [ "\u4100" ] },
+    { "type": "bitmap", "file": "chat:suffix/season/2/oxygen_cylinder.png", "ascent": 7, "height": 8, "chars": [ "\u4101" ] },
+    { "type": "bitmap", "file": "chat:suffix/season/2/particle.png", "ascent": 7, "height": 8, "chars": [ "\u4102" ] }
+  ]
+}

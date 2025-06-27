@@ -1,0 +1,29 @@
+{
+	"credit": "LeonidM",
+	"parent": "mechsandtechs:block/root",
+	"textures": {
+		"0": "steam:block/boiler/empty",
+		"1": "steam:block/boiler/steam_1x1"
+	},
+	"elements": [
+		{
+			"from": [0, 2, 0],
+			"to": [16, 16, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [4, 8, 4]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 14], "texture": "#1"},
+				"east": {"uv": [0, 0, 16, 14], "texture": "#1"},
+				"south": {"uv": [0, 0, 16, 14], "texture": "#1"},
+				"west": {"uv": [0, 0, 16, 14], "texture": "#1"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"translation": [0, -14.67, 0],
+			"scale": [1.60074, 2.6679, 1.60074]
+		}
+	}
+}

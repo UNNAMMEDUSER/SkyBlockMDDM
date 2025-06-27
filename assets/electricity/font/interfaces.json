@@ -1,0 +1,57 @@
+{
+  "providers": [
+    { "type": "bitmap", "file": "electricity:gui/source_template.png", "ascent": 19, "height": 256, "chars": [ "\u0001" ] },
+    { "type": "bitmap", "file": "electricity:gui/consumer_template.png", "ascent": 19, "height": 256, "chars": [ "\u0002" ] },
+
+    { "type": "bitmap", "file": "electricity:gui/electrolyte_accumulator.png", "ascent": 19, "height": 256, "chars": [ "\u0010" ] },
+    { "type": "bitmap", "file": "electricity:gui/accumulator.png", "ascent": 19, "height": 256, "chars": [ "\u0011" ] },
+    { "type": "bitmap", "file": "electricity:gui/transformer.png", "ascent": 19, "height": 256, "chars": [ "\u0012" ] },
+
+    { "type": "bitmap", "file": "electricity:gui/solar_panel.png", "ascent": 19, "height": 256, "chars": [ "\u0100" ] },
+    { "type": "bitmap", "file": "electricity:gui/fuel_generator.png", "ascent": 19, "height": 256, "chars": [ "\u0101" ] },
+    { "type": "bitmap", "file": "electricity:gui/windmill.png", "ascent": 19, "height": 256, "chars": [ "\u0102" ] },
+    { "type": "bitmap", "file": "electricity:gui/steam_turbine.png", "ascent": 19, "height": 256, "chars": [ "\u0103" ] },
+    { "type": "bitmap", "file": "electricity:gui/fluid_turbine.png", "ascent": 19, "height": 256, "chars": [ "\u0104" ] },
+    { "type": "bitmap", "file": "electricity:gui/gas_turbine.png", "ascent": 19, "height": 256, "chars": [ "\u0105" ] },
+
+
+    { "type": "bitmap", "file": "electricity:gui/washing_machine.png", "ascent": 19, "height": 256, "chars": [ "\u0200" ] },
+    { "type": "bitmap", "file": "electricity:gui/water_pump.png", "ascent": 19, "height": 256, "chars": [ "\u0201" ] },
+    { "type": "bitmap", "file": "electricity:gui/furnace.png", "ascent": 19, "height": 256, "chars": [ "\u0202" ] },
+    { "type": "bitmap", "file": "electricity:gui/pulverizer.png", "ascent": 19, "height": 256, "chars": [ "\u0203" ] },
+    { "type": "bitmap", "file": "electricity:gui/metal_molder.png", "ascent": 19, "height": 256, "chars": [ "\u0204" ] },
+    { "type": "bitmap", "file": "electricity:gui/sieve.png", "ascent": 19, "height": 256, "chars": [ "\u0205" ] },
+    { "type": "bitmap", "file": "electricity:gui/compressor.png", "ascent": 19, "height": 256, "chars": [ "\u0206" ] },
+    { "type": "bitmap", "file": "electricity:gui/air_compressor.png", "ascent": 19, "height": 256, "chars": [ "\u0207" ] },
+    { "type": "bitmap", "file": "electricity:gui/blast_furnace.png", "ascent": 19, "height": 256, "chars": [ "\u0208" ] },
+    { "type": "bitmap", "file": "electricity:gui/filler.png", "ascent": 19, "height": 256, "chars": [ "\u0209" ] },
+    { "type": "bitmap", "file": "electricity:gui/sawmill.png", "ascent": 19, "height": 256, "chars": [ "\u020A" ] },
+    { "type": "bitmap", "file": "electricity:gui/phytogenic_chamber.png", "ascent": 19, "height": 256, "chars": [ "\u020B" ] },
+    { "type": "bitmap", "file": "electricity:gui/cobblestone_generator.png", "ascent": 19, "height": 256, "chars": [ "\u020C" ] },
+    { "type": "bitmap", "file": "electricity:gui/item_converter.png", "ascent": 19, "height": 256, "chars": [ "\u020D" ] },
+    { "type": "bitmap", "file": "electricity:gui/hammer.png", "ascent": 19, "height": 256, "chars": [ "\u020E" ] },
+    { "type": "bitmap", "file": "electricity:gui/harvester.png", "ascent": 19, "height": 256, "chars": [ "\u020F" ] },
+    { "type": "bitmap", "file": "electricity:gui/mixer.png", "ascent": 19, "height": 256, "chars": [ "\u0210" ] },
+    { "type": "bitmap", "file": "electricity:gui/assembly_machine.png", "ascent": 19, "height": 256, "chars": [ "\u0211" ] },
+    { "type": "bitmap", "file": "electricity:gui/thermal_centrifuge.png", "ascent": 19, "height": 256, "chars": [ "\u0212" ] },
+    { "type": "bitmap", "file": "electricity:gui/chemical_reactor.png", "ascent": 19, "height": 256, "chars": [ "\u0213" ] },
+    { "type": "bitmap", "file": "electricity:gui/extractor.png", "ascent": 19, "height": 256, "chars": [ "\u0214" ] },
+    { "type": "bitmap", "file": "electricity:gui/distiller.png", "ascent": 19, "height": 256, "chars": [ "\u0215" ] },
+    { "type": "bitmap", "file": "electricity:gui/scrubber.png", "ascent": 19, "height": 256, "chars": [ "\u0216" ] },
+    { "type": "bitmap", "file": "electricity:gui/nuclear_reactor.png", "ascent": 19, "height": 256, "chars": [ "\u0217" ] },
+    { "type": "bitmap", "file": "electricity:gui/nuclear_reactor_bottom.png", "ascent": 19, "height": 256, "chars": [ "\u0218" ] },
+    { "type": "bitmap", "file": "electricity:gui/vacuum_freezer.png", "ascent": 19, "height": 256, "chars": [ "\u0219" ] },
+
+
+    { "type": "bitmap", "file": "electricity:gui/hopper_filter.png", "ascent": 19, "height": 256, "chars": [ "\u0300" ] },
+    { "type": "bitmap", "file": "electricity:gui/advanced_crafting_table.png", "ascent": 19, "height": 256, "chars": [ "\u0301" ] },
+    { "type": "bitmap", "file": "electricity:gui/crafting_table.png", "ascent": 19, "height": 256, "chars": [ "\u0302" ] },
+    { "type": "bitmap", "file": "electricity:gui/breaker.png", "ascent": 19, "height": 256, "chars": [ "\u0303" ] },
+    { "type": "bitmap", "file": "electricity:gui/placer.png", "ascent": 19, "height": 256, "chars": [ "\u0304" ] },
+    { "type": "bitmap", "file": "electricity:gui/soldering_table.png", "ascent": 19, "height": 256, "chars": [ "\u0305" ] },
+
+    { "type": "bitmap", "file": "electricity:gui/matter/scanner.png", "ascent": 19, "height": 256, "chars": [ "\u0400" ] },
+    { "type": "bitmap", "file": "electricity:gui/matter/matter_generator.png", "ascent": 19, "height": 256, "chars": [ "\u0401" ] },
+    { "type": "bitmap", "file": "electricity:gui/matter/replicator.png", "ascent": 19, "height": 256, "chars": [ "\u0402" ] }
+  ]
+}

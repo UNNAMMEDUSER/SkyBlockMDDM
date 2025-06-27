@@ -1,0 +1,20 @@
+{
+    "2024.ak47.shoot": {
+        "subtitle": "Выстрел AK-47",
+        "replace": false,
+        "sounds": [
+            {
+                "name": "july1:2024/ak47_shoot"
+            }
+        ]
+    },
+	"2024.csgo_weapon_case.open": {
+        "subtitle": "ААААА ЧЁ ВЫПАЛО",
+        "replace": false,
+        "sounds": [
+            {
+                "name": "july1:2024/csgo_weapon_case_open"
+            }
+        ]
+    }
+}

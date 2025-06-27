@@ -1,0 +1,106 @@
+{
+    "sources": [
+		{
+            "type": "paletted_permutations",
+            "textures": [
+				"minecraft:trims/entity/humanoid/chainmail_armor",
+				"minecraft:trims/entity/humanoid/chainmail_armor_leggings"
+            ],
+            "palette_key": "minecraft:trims/color_palettes/default_armor_trim_palette",
+            "permutations": {
+                "empty": "minecraft:trims/color_palettes/empty"
+            }
+        },
+		{
+            "type": "paletted_permutations",
+            "textures": [
+                "electricity:trims/entity/humanoid/jetpack_armor",
+				"electricity:trims/entity/humanoid/advanced_jetpack_armor",
+				"electricity:trims/entity/humanoid/ultimate_jetpack_armor",
+				"electricity:trims/entity/humanoid/energy_pack_armor",
+                "electricity:trims/entity/humanoid/nano_armor",
+                "electricity:trims/entity/humanoid_leggings/nano_armor",
+				"electricity:trims/entity/humanoid/advanced_nano_armor",
+                "electricity:trims/entity/humanoid/quantum_armor",
+                "electricity:trims/entity/humanoid_leggings/quantum_armor",
+				"electricity:trims/entity/humanoid/advanced_quantum_armor",
+
+                "customization:trims/entity/humanoid/steampunk_nano_armor",
+                "customization:trims/entity/humanoid_leggings/steampunk_nano_armor",
+                "customization:trims/entity/humanoid/steampunk_advanced_nano_armor",
+                "customization:trims/entity/humanoid/steampunk_quantum_armor",
+                "customization:trims/entity/humanoid_leggings/steampunk_quantum_armor",
+                "customization:trims/entity/humanoid/steampunk_advanced_quantum_armor",
+
+                "customization:trims/entity/humanoid/uranium_nano_armor",
+                "customization:trims/entity/humanoid_leggings/uranium_nano_armor",
+                "customization:trims/entity/humanoid/uranium_advanced_nano_armor",
+                "customization:trims/entity/humanoid/uranium_quantum_armor",
+                "customization:trims/entity/humanoid_leggings/uranium_quantum_armor",
+                "customization:trims/entity/humanoid/uranium_advanced_quantum_armor",
+
+                "customization:trims/entity/humanoid/old_quantum_armor",
+                "customization:trims/entity/humanoid_leggings/old_quantum_armor",
+                "customization:trims/entity/humanoid/old_advanced_quantum_armor"
+            ],
+            "palette_key": "electricity:trims/color_palettes/default_armor_trim_palette",
+            "permutations": {
+                "empty": "minecraft:trims/color_palettes/empty"
+            }
+        },
+		{
+            "type": "paletted_permutations",
+            "textures": [
+                "electricity:trims/entity/humanoid/custom_nano_armor",
+                "electricity:trims/entity/humanoid_leggings/custom_nano_armor",
+				"electricity:trims/entity/humanoid/custom_advanced_nano_armor"
+            ],
+            "palette_key": "electricity:trims/color_palettes/nano_armor_trim_palette",
+            "permutations": {
+                "quartz": "trims/color_palettes/quartz",
+                "iron": "trims/color_palettes/iron",
+                "gold": "trims/color_palettes/gold",
+                "diamond": "trims/color_palettes/diamond",
+                "netherite": "trims/color_palettes/netherite",
+                "redstone": "trims/color_palettes/redstone",
+                "copper": "trims/color_palettes/copper",
+                "emerald": "trims/color_palettes/emerald",
+                "lapis": "trims/color_palettes/lapis",
+                "amethyst": "trims/color_palettes/amethyst"
+            }
+        },
+		{
+            "type": "paletted_permutations",
+            "textures": [
+                "electricity:trims/entity/humanoid/custom_quantum_armor",
+                "electricity:trims/entity/humanoid_leggings/custom_quantum_armor",
+				"electricity:trims/entity/humanoid/custom_advanced_quantum_armor"
+            ],
+            "palette_key": "electricity:trims/color_palettes/quantum_armor_trim_palette",
+            "permutations": {
+                "quartz": "trims/color_palettes/quartz",
+                "iron": "trims/color_palettes/iron",
+                "gold": "trims/color_palettes/gold",
+                "diamond": "trims/color_palettes/diamond",
+                "netherite": "trims/color_palettes/netherite",
+                "redstone": "trims/color_palettes/redstone",
+                "copper": "trims/color_palettes/copper",
+                "emerald": "trims/color_palettes/emerald",
+                "lapis": "trims/color_palettes/lapis",
+                "amethyst": "trims/color_palettes/amethyst"
+            }
+        },
+
+		{
+            "type": "paletted_permutations",
+            "textures": [
+                "bees:trims/entity/humanoid/apiarist_armor",
+				"bees:trims/entity/humanoid_leggings/apiarist_armor"
+            ],
+            "palette_key": "bees:trims/color_palettes/default_armor_trim_palette",
+            "permutations": {
+                "empty": "minecraft:trims/color_palettes/empty"
+            }
+        }
+    ]
+}

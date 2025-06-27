@@ -1,0 +1,25 @@
+{
+    "providers": [
+        { "type": "bitmap", "file": "donates:kit/farmer.png", "ascent": 8, "height": 108, "chars": [ "\u0100\u0101" ] },
+        { "type": "bitmap", "file": "donates:kit/miner.png", "ascent": 8, "height": 108, "chars": [ "\u0102\u0103" ] },
+        { "type": "bitmap", "file": "donates:kit/nether.png", "ascent": 8, "height": 108, "chars": [ "\u0104" ] },
+        { "type": "bitmap", "file": "donates:kit/apiarist.png", "ascent": 8, "height": 108, "chars": [ "\u0105" ] },
+        { "type": "bitmap", "file": "donates:kit/pipes.png", "ascent": 10, "height": 72, "chars": [ "\u0106" ] },
+
+        { "type": "bitmap", "file": "donates:kit/quantum.png", "ascent": 7, "height": 36, "chars": [ "\u0200" ] },
+
+        { "type": "bitmap", "file": "donates:kit/cupronickel_blast_furnace.png", "ascent": 10, "height": 72, "chars": [ "\u0300" ] },
+        { "type": "bitmap", "file": "donates:kit/kanthal_blast_furnace.png", "ascent": 10, "height": 72, "chars": [ "\u0301" ] },
+        { "type": "bitmap", "file": "donates:kit/clean_room.png", "ascent": 8, "height": 108, "chars": [ "\u0302" ] },
+        { "type": "bitmap", "file": "donates:kit/scrubber.png", "ascent": 8, "height": 108, "chars": [ "\u0303" ] },
+        { "type": "bitmap", "file": "donates:kit/vacuum_freezer.png", "ascent": 8, "height": 108, "chars": [ "\u0304" ] },
+        { "type": "bitmap", "file": "donates:kit/nuclear_reactor.png", "ascent": 10, "height": 72, "chars": [ "\u0305" ] },
+        { "type": "bitmap", "file": "donates:kit/stabilizing_room.png", "ascent": 8, "height": 108, "chars": [ "\u0306" ] },
+
+        { "type": "bitmap", "file": "donates:kit/privilege/alpha.png", "ascent": 10, "height": 72, "chars": [ "\u1000\u1001" ] },
+        { "type": "bitmap", "file": "donates:kit/privilege/beta.png", "ascent": 10, "height": 72, "chars": [ "\u1002\u1003" ] },
+        { "type": "bitmap", "file": "donates:kit/privilege/gamma.png", "ascent": 10, "height": 72, "chars": [ "\u1004\u1005" ] },
+
+        { "type": "space", "advances": { "\u4000": -1 }}
+    ]
+  }

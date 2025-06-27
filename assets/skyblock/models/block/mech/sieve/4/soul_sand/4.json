@@ -1,0 +1,6 @@
+{
+	"parent": "skyblock:block/mech/sieve/1/soul_sand/4",
+	"textures": {
+		"1": "skyblock:block/mech/sieve/filter_4"
+	}
+}

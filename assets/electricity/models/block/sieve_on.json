@@ -1,0 +1,7 @@
+{
+	"credit": "levnemcev",
+	"parent": "electricity:block/sieve",
+	"textures": {
+		"0": "electricity:block/sieve_on"
+	}
+}

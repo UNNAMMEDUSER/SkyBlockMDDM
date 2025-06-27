@@ -1,0 +1,9 @@
+{
+    "providers": [
+      { "type": "bitmap", "file": "chat:gui/chat_settings/main.png", "ascent": 19, "height": 256, "chars": [ "\u1000" ] },
+      { "type": "bitmap", "file": "chat:gui/chat_settings/prefixes.png", "ascent": 19, "height": 256, "chars": [ "\u1001" ] },
+      { "type": "bitmap", "file": "chat:gui/chat_settings/nickname_colors.png", "ascent": 19, "height": 256, "chars": [ "\u1002" ] },
+      { "type": "bitmap", "file": "chat:gui/chat_settings/suffixes.png", "ascent": 19, "height": 256, "chars": [ "\u1003" ] },
+      { "type": "bitmap", "file": "chat:gui/chat_settings/backgrounds.png", "ascent": 19, "height": 256, "chars": [ "\u1004" ] }
+    ]
+}

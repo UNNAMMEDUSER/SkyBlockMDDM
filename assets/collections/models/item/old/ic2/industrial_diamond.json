@@ -1,0 +1,7 @@
+{
+    "credit": "Industrial Craft 2 (1.7.10)",
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "collections:item/old/ic2/industrial_diamond"
+    }
+}

@@ -1,0 +1,35 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "july1:item/2024/privilege/op"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"scale": [1.75, 1.75, 1.75]
+		},
+		"thirdperson_lefthand": {
+			"scale": [1.75, 1.75, 1.75]
+		},
+		"firstperson_righthand": {
+			"scale": [1.75, 1.75, 1.75]
+		},
+		"firstperson_lefthand": {
+			"scale": [1.75, 1.75, 1.75]
+		},
+		"ground": {
+			"scale": [1.75, 1.75, 1.75]
+		},
+		"gui": {
+			"scale": [1.75, 1.75, 1.75]
+		},
+		"head": {
+			"translation": [0, 7.25, 0],
+			"rotation": [0, 180, 0],
+			"scale": [1.75, 1.75, 1.75]
+		},
+		"fixed": {
+			"rotation": [0, 180, 0],
+			"scale": [1.75, 1.75, 1.75]
+		}
+	}
+}

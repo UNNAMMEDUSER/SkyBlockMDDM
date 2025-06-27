@@ -1,0 +1,6 @@
+{
+	"parent": "gui:item/bar/scanner/root",
+	"textures": {
+		"layer0": "gui:item/bar/scanner/0"
+	}
+}

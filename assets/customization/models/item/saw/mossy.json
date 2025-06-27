@@ -1,0 +1,7 @@
+{
+	"credit": "levnemcev",
+	"parent": "electricity:item/tool/saw",
+	"textures": {
+		"layer0": "customization:item/saw/mossy"
+	}
+}

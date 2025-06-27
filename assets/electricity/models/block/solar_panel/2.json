@@ -1,0 +1,8 @@
+{
+	"credit": "levnemcev",
+	"parent": "electricity:block/solar_panel/1",
+	"texture_size": [64, 64],
+	"textures": {
+		"3": "electricity:block/solar_panel/2"
+	}
+}

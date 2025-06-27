@@ -1,0 +1,13 @@
+{
+  "providers": [
+    { "type": "bitmap", "file": "recipeviewer:gui/recipes_mode.png", "ascent": 19, "height": 256, "chars": [ "\u0001" ] },
+    { "type": "bitmap", "file": "recipeviewer:gui/item_search.png", "ascent": 19, "height": 256, "chars": [ "\u0002" ] },
+	{ "type": "bitmap", "file": "recipeviewer:gui/crafting_table.png", "ascent": 13, "height": 256, "chars": [ "\u0003" ] },
+	{ "type": "bitmap", "file": "recipeviewer:gui/smithing.png", "ascent": 13, "height": 256, "chars": [ "\u0004" ] },
+	{ "type": "bitmap", "file": "recipeviewer:gui/stonecutting.png", "ascent": 13, "height": 256, "chars": [ "\u0005" ] },
+	{ "type": "bitmap", "file": "recipeviewer:gui/cooking.png", "ascent": 13, "height": 256, "chars": [ "\u0006" ] },
+
+	{ "type": "bitmap", "file": "recipeviewer:gui/helppage_top.png", "ascent": 13, "height": 256, "chars": [ "\u1000" ] },
+	{ "type": "bitmap", "file": "recipeviewer:gui/helppage_bottom.png", "ascent": 13, "height": 256, "chars": [ "\u1001" ] }
+  ]
+}

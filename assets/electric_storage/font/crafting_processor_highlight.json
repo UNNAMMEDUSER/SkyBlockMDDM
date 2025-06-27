@@ -1,0 +1,13 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "electric_storage:font/crafting_processor_highlight.png",
+			"height": 72,
+            "ascent": -4,
+            "chars": [
+                "\u0001\u0002\u0003\u0004"
+            ]
+        }
+	]
+}

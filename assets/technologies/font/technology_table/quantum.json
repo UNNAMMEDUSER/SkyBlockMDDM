@@ -1,0 +1,40 @@
+{
+  "providers": [
+  	{ "type": "bitmap", "file": "technologies:gui/technology_table/quantum/top.png", "ascent": 19, "height": 256, "chars": [ "\u0001" ] },
+
+  	{ "type": "bitmap", "file": "technologies:gui/technology_table/quantum/separator.png", "ascent": -2, "height": 4, "chars": [ "\u0100" ] },
+  	{ "type": "bitmap", "file": "technologies:gui/technology_table/quantum/separator.png", "ascent": -20, "height": 4, "chars": [ "\u0101" ] },
+  	{ "type": "bitmap", "file": "technologies:gui/technology_table/quantum/separator.png", "ascent": -38, "height": 4, "chars": [ "\u0102" ] },
+  	{ "type": "bitmap", "file": "technologies:gui/technology_table/quantum/separator.png", "ascent": -56, "height": 4, "chars": [ "\u0103" ] },
+  	{ "type": "bitmap", "file": "technologies:gui/technology_table/quantum/separator.png", "ascent": -74, "height": 4, "chars": [ "\u0104" ] },
+  	{ "type": "bitmap", "file": "technologies:gui/technology_table/quantum/separator.png", "ascent": -92, "height": 4, "chars": [ "\u0105" ] },	
+
+  	{ "type": "bitmap", "file": "technologies:gui/technology_table/quantum/block.png", "ascent": -4, "height": 18, "chars": [ "\u0200" ] },
+  	{ "type": "bitmap", "file": "technologies:gui/technology_table/quantum/block.png", "ascent": -22, "height": 18, "chars": [ "\u0201" ] },
+  	{ "type": "bitmap", "file": "technologies:gui/technology_table/quantum/block.png", "ascent": -40, "height": 18, "chars": [ "\u0202" ] },
+  	{ "type": "bitmap", "file": "technologies:gui/technology_table/quantum/block.png", "ascent": -58, "height": 18, "chars": [ "\u0203" ] },
+  	{ "type": "bitmap", "file": "technologies:gui/technology_table/quantum/block.png", "ascent": -76, "height": 18, "chars": [ "\u0204" ] },
+  	{ "type": "bitmap", "file": "technologies:gui/technology_table/quantum/block.png", "ascent": -94, "height": 18, "chars": [ "\u0205" ] },
+
+  	{ "type": "bitmap", "file": "technologies:gui/technology_table/quantum/recipe_start.png", "ascent": -4, "height": 18, "chars": [ "\u0300" ] },
+  	{ "type": "bitmap", "file": "technologies:gui/technology_table/quantum/recipe_start.png", "ascent": -22, "height": 18, "chars": [ "\u0301" ] },
+  	{ "type": "bitmap", "file": "technologies:gui/technology_table/quantum/recipe_start.png", "ascent": -40, "height": 18, "chars": [ "\u0302" ] },
+  	{ "type": "bitmap", "file": "technologies:gui/technology_table/quantum/recipe_start.png", "ascent": -58, "height": 18, "chars": [ "\u0303" ] },
+  	{ "type": "bitmap", "file": "technologies:gui/technology_table/quantum/recipe_start.png", "ascent": -76, "height": 18, "chars": [ "\u0304" ] },
+  	{ "type": "bitmap", "file": "technologies:gui/technology_table/quantum/recipe_start.png", "ascent": -94, "height": 18, "chars": [ "\u0305" ] },
+	
+  	{ "type": "bitmap", "file": "technologies:gui/technology_table/quantum/cost.png", "ascent": -4, "height": 18, "chars": [ "\u0400" ] },
+  	{ "type": "bitmap", "file": "technologies:gui/technology_table/quantum/cost.png", "ascent": -22, "height": 18, "chars": [ "\u0401" ] },
+  	{ "type": "bitmap", "file": "technologies:gui/technology_table/quantum/cost.png", "ascent": -40, "height": 18, "chars": [ "\u0402" ] },
+  	{ "type": "bitmap", "file": "technologies:gui/technology_table/quantum/cost.png", "ascent": -58, "height": 18, "chars": [ "\u0403" ] },
+  	{ "type": "bitmap", "file": "technologies:gui/technology_table/quantum/cost.png", "ascent": -76, "height": 18, "chars": [ "\u0404" ] },
+  	{ "type": "bitmap", "file": "technologies:gui/technology_table/quantum/cost.png", "ascent": -94, "height": 18, "chars": [ "\u0405" ] },
+
+	{ "type": "bitmap", "file": "technologies:gui/technology_table/quantum/cost_completed.png", "ascent": -4, "height": 18, "chars": [ "\u0500" ] },
+  	{ "type": "bitmap", "file": "technologies:gui/technology_table/quantum/cost_completed.png", "ascent": -22, "height": 18, "chars": [ "\u0501" ] },
+  	{ "type": "bitmap", "file": "technologies:gui/technology_table/quantum/cost_completed.png", "ascent": -40, "height": 18, "chars": [ "\u0502" ] },
+  	{ "type": "bitmap", "file": "technologies:gui/technology_table/quantum/cost_completed.png", "ascent": -58, "height": 18, "chars": [ "\u0503" ] },
+  	{ "type": "bitmap", "file": "technologies:gui/technology_table/quantum/cost_completed.png", "ascent": -76, "height": 18, "chars": [ "\u0504" ] },
+  	{ "type": "bitmap", "file": "technologies:gui/technology_table/quantum/cost_completed.png", "ascent": -94, "height": 18, "chars": [ "\u0505" ] }
+  ]
+}

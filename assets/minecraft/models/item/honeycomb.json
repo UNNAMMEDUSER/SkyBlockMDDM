@@ -1,0 +1,14 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "minecraft:item/honeycomb"
+    },
+    "overrides": [
+        { "predicate": { "custom_model_data": 1 }, "model": "bees:item/comb/viscous" },
+        { "predicate": { "custom_model_data": 2 }, "model": "bees:item/comb/silk" },
+        { "predicate": { "custom_model_data": 3 }, "model": "bees:item/comb/fire" },
+        { "predicate": { "custom_model_data": 4 }, "model": "bees:item/comb/coral" },
+        { "predicate": { "custom_model_data": 5 }, "model": "bees:item/comb/imperial" },
+        { "predicate": { "custom_model_data": 6 }, "model": "bees:item/comb/ice" }
+    ]
+}

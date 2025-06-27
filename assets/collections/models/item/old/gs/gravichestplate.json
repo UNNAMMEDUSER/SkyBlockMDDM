@@ -1,0 +1,7 @@
+{
+    "credit": "Applied Energistics 2 (1.7.10)",
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "collections:item/old/gs/gravichestplate"
+    }
+}

@@ -1,0 +1,16 @@
+{
+  "providers": [
+    { "type": "bitmap", "file": "steam:gui/generator.png", "ascent": 19, "height": 256, "chars": [ "\u0001" ] },
+    { "type": "bitmap", "file": "steam:gui/water_pump.png", "ascent": 19, "height": 256, "chars": [ "\u0010" ] },
+
+    { "type": "bitmap", "file": "steam:gui/pulverizer.png", "ascent": 19, "height": 256, "chars": [ "\u0100" ] },
+    { "type": "bitmap", "file": "steam:gui/condenser.png", "ascent": 19, "height": 256, "chars": [ "\u0101" ] },
+    { "type": "bitmap", "file": "steam:gui/filler.png", "ascent": 19, "height": 256, "chars": [ "\u0102" ] },
+    { "type": "bitmap", "file": "steam:gui/metal_molder.png", "ascent": 19, "height": 256, "chars": [ "\u0103" ] },
+    { "type": "bitmap", "file": "steam:gui/sawmill.png", "ascent": 19, "height": 256, "chars": [ "\u0104" ] },
+    { "type": "bitmap", "file": "steam:gui/sieve.png", "ascent": 19, "height": 256, "chars": [ "\u0105" ] },
+
+    { "type": "bitmap", "file": "steam:gui/breaker.png", "ascent": 19, "height": 256, "chars": [ "\u0200" ] },
+    { "type": "bitmap", "file": "steam:gui/placer.png", "ascent": 19, "height": 256, "chars": [ "\u0201" ] }
+  ]
+}

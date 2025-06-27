@@ -1,0 +1,29 @@
+{
+	"credit": "Dareda",
+	"parent": "mechsandtechs:block/root",
+	"textures": {
+		"0": "bees:block/electric_beehive/completed",
+		"particle": "bees:block/electric_beehive/completed"
+	},
+	"elements": [
+		{
+			"from": [-16, -16, -16],
+			"to": [32, 32, 32],
+			"rotation": {"angle": 0, "axis": "y", "origin": [4, 8, 4]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"up": {"uv": [0, 0, 0.66667, 0.66667], "texture": "#0"},
+				"down": {"uv": [0, 0, 0.66667, 0.66667], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"translation": [0, -14.67, 0],
+			"scale": [3.435, 3.435, 3.435]
+		}
+	}
+}

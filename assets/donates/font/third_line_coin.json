@@ -1,0 +1,7 @@
+{
+  "providers": [
+    { "type": "bitmap", "file": "donates:item/iron_coin.png", "ascent": -81, "height": 8, "chars": [ "\u0100" ] },
+    { "type": "bitmap", "file": "donates:item/gold_coin.png", "ascent": -81, "height": 8, "chars": [ "\u0101" ] },
+    { "type": "bitmap", "file": "donates:item/sp_coin.png", "ascent": -81, "height": 8, "chars": [ "\u0200" ] }
+  ]
+}

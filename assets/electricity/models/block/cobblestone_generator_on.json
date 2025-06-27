@@ -1,0 +1,7 @@
+{
+	"credit": "levnemcev",
+	"parent": "electricity:block/cobblestone_generator",
+	"textures": {
+		"0": "electricity:block/cobblestone_generator_on"
+	}
+}

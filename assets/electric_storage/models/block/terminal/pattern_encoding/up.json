@@ -1,0 +1,9 @@
+{
+	"credit": "levnemcev",
+	"parent": "electric_storage:block/terminal/default/up",
+	"textures": {
+		"0": "electric_storage:block/terminal/pattern_encoding",
+		"1": "electric_storage:block/terminal/pattern_encoding_overlay",
+		"particle": "electric_storage:block/terminal/pattern_encoding_overlay"
+	}
+}

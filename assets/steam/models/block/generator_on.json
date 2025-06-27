@@ -1,0 +1,8 @@
+{
+	"credit": "Dareda",
+	"parent": "steam:block/generator",
+	"textures": {
+		"0": "steam:block/generator_on",
+		"particle": "steam:block/generator_on"
+	}
+}

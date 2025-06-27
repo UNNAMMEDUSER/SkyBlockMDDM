@@ -1,0 +1,7 @@
+{
+	"credit": "LeonidM",
+	"parent": "general:item/capsule/empty",
+	"textures": {
+		"fluid": "gui:item/bar/polyvinyl_chloride/14"
+	}
+}

@@ -1,0 +1,7 @@
+{
+	"credit": "LeonidM",
+	"parent": "general:item/singular/capsule/empty",
+	"textures": {
+		"fluid": "gui:item/bar/distilled_water/14"
+	}
+}

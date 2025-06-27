@@ -1,0 +1,6 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "july1:item/2024/pizza_slice"
+	}
+}

@@ -1,0 +1,7 @@
+{
+	"credit": "Miwo4ka",
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "skyblock:item/hammer/golden"
+    }
+}

@@ -1,0 +1,125 @@
+{
+    "block.sawmill.work": {
+        "subtitle": "Лесопилка работает",
+        "replace": false,
+        "sounds": [
+            {
+                "name": "electricity:sawmill/1"
+            },
+            {
+                "name": "electricity:sawmill/2"
+            },
+            {
+                "name": "electricity:sawmill/3"
+            },
+            {
+                "name": "electricity:sawmill/4"
+            },
+            {
+                "name": "electricity:sawmill/5"
+            }
+        ]
+    },
+    "block.assembly_machine.work": {
+        "subtitle": "Сборочная машина работает",
+        "replace": false,
+        "sounds": [
+            {
+                "name": "electricity:assembly_machine"
+            }
+        ]
+    },
+    "block.mixer.work": {
+        "subtitle": "Смеситель работает",
+        "replace": false,
+        "sounds": [
+            {
+                "name": "electricity:mixer"
+            }
+        ]
+    },
+    "block.scrubber.work": {
+        "subtitle": "Скруббер работает",
+        "replace": false,
+        "sounds": [
+            {
+                "name": "electricity:scrubber"
+            }
+        ]
+    },
+    "block.extractor.work": {
+        "subtitle": "Экстрактор работает",
+        "replace": false,
+        "sounds": [
+            {
+                "name": "electricity:extractor"
+            }
+        ]
+    },
+    "block.chemical_reactor.work": {
+        "subtitle": "Химический реактор работает",
+        "replace": false,
+        "sounds": [
+            {
+                "name": "electricity:chemical_reactor"
+            }
+        ]
+    },
+
+    "item.saw.idle": {
+        "replace": false,
+        "sounds": [
+            {
+                "name": "electricity:saw/idle"
+            }
+        ]
+    },
+    "item.saw.stop": {
+        "replace": false,
+        "sounds": [
+            {
+                "name": "electricity:saw/stop"
+            }
+        ]
+    },
+
+    "item.nano_saber.idle": {
+        "replace": false,
+        "sounds": [
+            {
+                "name": "electricity:nano_saber/idle"
+            }
+        ]
+    },
+    "item.nano_saber.enable": {
+        "replace": false,
+        "sounds": [
+            {
+                "name": "electricity:nano_saber/enable"
+            }
+        ]
+    },
+    "item.nano_saber.swing": {
+        "replace": false,
+        "sounds": [
+            {
+                "name": "electricity:nano_saber/swing1"
+            },
+            {
+                "name": "electricity:nano_saber/swing2"
+            },
+            {
+                "name": "electricity:nano_saber/swing3"
+            }
+        ]
+    },
+
+    "item.jetpack.idle": {
+        "replace": false,
+        "sounds": [
+            {
+                "name": "electricity:jetpack/idle"
+            }
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "providers": [
+      { "type": "bitmap", "file": "pipes:gui/item/servo/1.png", "ascent": 19, "height": 256, "chars": [ "\u0001" ] },
+      { "type": "bitmap", "file": "pipes:gui/item/servo/2.png", "ascent": 19, "height": 256, "chars": [ "\u0002" ] },
+      { "type": "bitmap", "file": "pipes:gui/item/servo/3.png", "ascent": 19, "height": 256, "chars": [ "\u0003" ] },
+      { "type": "bitmap", "file": "pipes:gui/item/servo/4.png", "ascent": 19, "height": 256, "chars": [ "\u0004" ] },
+      { "type": "bitmap", "file": "pipes:gui/item/servo/5.png", "ascent": 19, "height": 256, "chars": [ "\u0005" ] },
+      { "type": "bitmap", "file": "pipes:gui/item/servo/6.png", "ascent": 19, "height": 256, "chars": [ "\u0006" ] },
+      { "type": "bitmap", "file": "pipes:gui/item/servo/7.png", "ascent": 19, "height": 256, "chars": [ "\u0007" ] },
+	  
+	    { "type": "bitmap", "file": "pipes:gui/item/filter/1.png", "ascent": 19, "height": 256, "chars": [ "\u0011" ] },
+      { "type": "bitmap", "file": "pipes:gui/item/filter/2.png", "ascent": 19, "height": 256, "chars": [ "\u0012" ] },
+      { "type": "bitmap", "file": "pipes:gui/item/filter/3.png", "ascent": 19, "height": 256, "chars": [ "\u0013" ] },
+      { "type": "bitmap", "file": "pipes:gui/item/filter/4.png", "ascent": 19, "height": 256, "chars": [ "\u0014" ] },
+      { "type": "bitmap", "file": "pipes:gui/item/filter/5.png", "ascent": 19, "height": 256, "chars": [ "\u0015" ] },
+      { "type": "bitmap", "file": "pipes:gui/item/filter/6.png", "ascent": 19, "height": 256, "chars": [ "\u0016" ] },
+      { "type": "bitmap", "file": "pipes:gui/item/filter/7.png", "ascent": 19, "height": 256, "chars": [ "\u0017" ] },
+
+      { "type": "bitmap", "file": "pipes:gui/fluid/servo/1.png", "ascent": 19, "height": 256, "chars": [ "\u0021" ] },
+      { "type": "bitmap", "file": "pipes:gui/fluid/servo/2.png", "ascent": 19, "height": 256, "chars": [ "\u0022" ] },
+      { "type": "bitmap", "file": "pipes:gui/fluid/servo/3.png", "ascent": 19, "height": 256, "chars": [ "\u0023" ] },
+      { "type": "bitmap", "file": "pipes:gui/fluid/servo/4.png", "ascent": 19, "height": 256, "chars": [ "\u0024" ] },
+      { "type": "bitmap", "file": "pipes:gui/fluid/servo/5.png", "ascent": 19, "height": 256, "chars": [ "\u0025" ] },
+      { "type": "bitmap", "file": "pipes:gui/fluid/servo/6.png", "ascent": 19, "height": 256, "chars": [ "\u0026" ] },
+      { "type": "bitmap", "file": "pipes:gui/fluid/servo/7.png", "ascent": 19, "height": 256, "chars": [ "\u0027" ] },
+
+      { "type": "bitmap", "file": "pipes:gui/fluid/filter/1.png", "ascent": 19, "height": 256, "chars": [ "\u0031" ] },
+      { "type": "bitmap", "file": "pipes:gui/fluid/filter/2.png", "ascent": 19, "height": 256, "chars": [ "\u0032" ] },
+      { "type": "bitmap", "file": "pipes:gui/fluid/filter/3.png", "ascent": 19, "height": 256, "chars": [ "\u0033" ] },
+      { "type": "bitmap", "file": "pipes:gui/fluid/filter/4.png", "ascent": 19, "height": 256, "chars": [ "\u0034" ] },
+      { "type": "bitmap", "file": "pipes:gui/fluid/filter/5.png", "ascent": 19, "height": 256, "chars": [ "\u0035" ] },
+      { "type": "bitmap", "file": "pipes:gui/fluid/filter/6.png", "ascent": 19, "height": 256, "chars": [ "\u0036" ] },
+      { "type": "bitmap", "file": "pipes:gui/fluid/filter/7.png", "ascent": 19, "height": 256, "chars": [ "\u0037" ] }
+    ]
+  }

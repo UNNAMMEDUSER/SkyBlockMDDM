@@ -1,0 +1,8 @@
+{
+	"credit": "levnemcev",
+	"parent": "electricity:block/breaker/side",
+	"textures": {
+		"0": "electricity:block/breaker/down",
+		"particle": "electricity:block/breaker/down"
+	}
+}

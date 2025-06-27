@@ -1,0 +1,11 @@
+{
+    "elevator_music": {
+        "subtitle": "Приятной поездки!",
+        "replace": false,
+        "sounds": [
+            {
+                "name": "general:elevator_music"
+            }
+        ]
+    }
+}

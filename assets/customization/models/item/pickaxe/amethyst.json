@@ -1,0 +1,7 @@
+{
+	"credit": "levnemcev",
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "customization:item/pickaxe/amethyst"
+	}
+}

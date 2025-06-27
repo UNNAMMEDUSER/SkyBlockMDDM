@@ -1,0 +1,7 @@
+{
+	"credit": "LeonidM",
+	"parent": "numbers:item/number/plus_4/0",
+	"textures": {
+		"0": "numbers:item/number/2"
+	}
+}

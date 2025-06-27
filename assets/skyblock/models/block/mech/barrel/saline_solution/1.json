@@ -1,0 +1,6 @@
+{
+	"parent": "skyblock:block/mech/barrel/water/1",
+	"textures": {
+		"3": "skyblock:block/mech/fluid/saline_solution"
+	}
+}

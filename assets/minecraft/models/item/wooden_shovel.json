@@ -1,0 +1,9 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "minecraft:item/wooden_shovel"
+    },
+    "overrides": [
+        { "predicate": { "custom_model_data": 100 }, "model": "skyblock:item/hammer/wooden" }
+    ]
+}

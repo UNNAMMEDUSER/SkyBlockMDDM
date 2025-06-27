@@ -1,0 +1,7 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "minecraft:item/bundle_filled",
+		"layer1": "donates:item/bundle_progress"
+	}
+}

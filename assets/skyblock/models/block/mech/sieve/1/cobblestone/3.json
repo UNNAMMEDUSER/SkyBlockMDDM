@@ -1,0 +1,6 @@
+{
+	"parent": "skyblock:block/mech/sieve/1/dirt/3",
+	"textures": {
+		"2": "block/cobblestone"
+	}
+}

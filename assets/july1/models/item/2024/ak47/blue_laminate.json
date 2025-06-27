@@ -1,0 +1,8 @@
+{
+	"credit": "levnemcev",
+	"parent": "july1:item/2024/ak47/default",
+	"textures": {
+		"1": "july1:item/2024/ak47/blue_laminate",
+		"particle": "#1"
+	}
+}

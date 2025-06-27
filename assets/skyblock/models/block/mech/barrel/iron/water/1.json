@@ -1,0 +1,8 @@
+{
+	"parent": "skyblock:block/mech/barrel/water/1",
+	"textures": {
+		"1": "skyblock:block/mech/iron_barrel",
+		"2": "electricity:block/frame/2",
+		"particle": "skyblock:block/mech/iron_barrel"
+	}
+}

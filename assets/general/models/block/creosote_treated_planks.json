@@ -1,0 +1,7 @@
+{
+    "credit": "levnemcev",
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "general:block/creosote_treated_planks"
+    }
+}

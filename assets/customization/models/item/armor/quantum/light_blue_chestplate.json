@@ -1,0 +1,7 @@
+{
+	"credit": "levnemcev",
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "customization:item/armor/quantum/light_blue_chestplate"
+	}
+}

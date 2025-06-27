@@ -1,0 +1,21 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "minecraft:item/netherite_shovel"
+    },
+    "overrides": [
+        { "predicate": { "custom_model_data": 100 }, "model": "skyblock:item/hammer/netherite" },
+
+        { "predicate": { "custom_model_data": 200 }, "model": "electricity:item/tool/drill" },
+
+        { "predicate": { "custom_model_data": 1002000 }, "model": "customization:item/drill/jackhammer" },
+        { "predicate": { "custom_model_data": 1002001 }, "model": "customization:item/drill/diamond" },
+
+        { "predicate": { "custom_model_data": 1002100 }, "model": "customization:item/drill/sculk" },
+        { "predicate": { "custom_model_data": 1002101 }, "model": "customization:item/drill/amethyst" },
+        { "predicate": { "custom_model_data": 1002102 }, "model": "customization:item/drill/mossy" },
+
+        { "predicate": { "custom_model_data": 1002200 }, "model": "customization:item/drill/steampunk" },
+        { "predicate": { "custom_model_data": 1002201 }, "model": "customization:item/drill/uranium" }
+    ]
+}

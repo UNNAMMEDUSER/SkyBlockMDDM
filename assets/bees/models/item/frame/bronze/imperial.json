@@ -1,0 +1,6 @@
+{
+    "parent": "bees:item/frame/bronze/empty",
+    "textures": {
+        "layer1": "bees:item/frame/comb/imperial"
+    }
+}

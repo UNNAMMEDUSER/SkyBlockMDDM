@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/suspicious_stew"
+  },
+  "overrides": [
+    { "predicate": { "custom_model_data": 1000000 }, "model": "july1:item/2024/processor_soup" }
+  ]
+}

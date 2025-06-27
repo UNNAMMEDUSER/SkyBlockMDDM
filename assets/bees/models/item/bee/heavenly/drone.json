@@ -1,0 +1,6 @@
+{
+    "parent": "bees:item/bee/raw/drone",
+    "textures": {
+        "layer0": "bees:item/bee/heavenly"
+    }
+}

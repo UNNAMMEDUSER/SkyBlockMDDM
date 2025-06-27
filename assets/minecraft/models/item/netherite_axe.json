@@ -1,0 +1,20 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "minecraft:item/netherite_axe"
+    },
+    "overrides": [
+        { "predicate": { "custom_model_data": 200 }, "model": "electricity:item/tool/saw" },
+
+        { "predicate": { "custom_model_data": 1000100 }, "model": "customization:item/axe/sculk" },
+        { "predicate": { "custom_model_data": 1000101 }, "model": "customization:item/axe/amethyst" },
+        { "predicate": { "custom_model_data": 1000102 }, "model": "customization:item/axe/mossy" },
+
+        { "predicate": { "custom_model_data": 1002100 }, "model": "customization:item/saw/sculk" },
+        { "predicate": { "custom_model_data": 1002101 }, "model": "customization:item/saw/amethyst" },
+        { "predicate": { "custom_model_data": 1002102 }, "model": "customization:item/saw/mossy" },
+
+        { "predicate": { "custom_model_data": 1002200 }, "model": "customization:item/saw/steampunk" },
+        { "predicate": { "custom_model_data": 1002201 }, "model": "customization:item/saw/uranium" }
+    ]
+}

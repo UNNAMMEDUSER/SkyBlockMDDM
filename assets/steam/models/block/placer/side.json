@@ -1,0 +1,22 @@
+{
+	"credit": "levnemcev",
+	"parent": "mechsandtechs:block/root",
+	"textures": {
+		"0": "steam:block/placer/side",
+		"particle": "steam:block/placer/side"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [4, 4, 8, 8], "texture": "#0"},
+				"east": {"uv": [0, 4, 4, 8], "texture": "#0"},
+				"south": {"uv": [12, 4, 16, 8], "texture": "#0"},
+				"west": {"uv": [8, 4, 12, 8], "texture": "#0"},
+				"up": {"uv": [4, 0, 8, 4], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [4, 8, 8, 12], "rotation": 180, "texture": "#0"}
+			}
+		}
+	]
+}

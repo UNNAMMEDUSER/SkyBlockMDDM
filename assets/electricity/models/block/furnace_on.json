@@ -1,0 +1,7 @@
+{
+	"credit": "levnemcev",
+	"parent": "electricity:block/furnace",
+	"textures": {
+		"0": "electricity:block/furnace_on"
+	}
+}

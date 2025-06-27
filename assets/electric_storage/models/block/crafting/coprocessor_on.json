@@ -1,0 +1,7 @@
+{
+	"parent": "electric_storage:block/crafting/coprocessor_off",
+	"textures": {
+		"1": "electric_storage:block/crafting/coprocessor_on",
+		"particle": "electric_storage:block/crafting/coprocessor_on"
+	}
+}

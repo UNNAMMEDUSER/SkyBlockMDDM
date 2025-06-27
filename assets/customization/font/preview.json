@@ -1,0 +1,45 @@
+{
+  "providers": [
+    { "type": "bitmap", "file": "customization:preview/armor/nano/red.png", "ascent": 7, "height": 128, "chars": [ "\u1000" ] },
+    { "type": "bitmap", "file": "customization:preview/armor/nano/light_blue.png", "ascent": 7, "height": 128, "chars": [ "\u1001" ] },
+    { "type": "bitmap", "file": "customization:preview/armor/nano/purple.png", "ascent": 7, "height": 128, "chars": [ "\u1002" ] },
+    { "type": "bitmap", "file": "customization:preview/armor/nano/gray.png", "ascent": 7, "height": 128, "chars": [ "\u1003" ] },
+    { "type": "bitmap", "file": "customization:preview/armor/nano/blue.png", "ascent": 7, "height": 128, "chars": [ "\u1004" ] },
+    { "type": "bitmap", "file": "customization:preview/armor/nano/yellow.png", "ascent": 7, "height": 128, "chars": [ "\u1005" ] },
+
+    { "type": "bitmap", "file": "customization:preview/armor/nano/steampunk.png", "ascent": 7, "height": 128, "chars": [ "\u1020" ] },
+    { "type": "bitmap", "file": "customization:preview/armor/nano/uranium.png", "ascent": 7, "height": 128, "chars": [ "\u1021" ] },
+
+
+    { "type": "bitmap", "file": "customization:preview/armor/quantum/red.png", "ascent": 7, "height": 128, "chars": [ "\u1100" ] },
+    { "type": "bitmap", "file": "customization:preview/armor/quantum/light_blue.png", "ascent": 7, "height": 128, "chars": [ "\u1101" ] },
+    { "type": "bitmap", "file": "customization:preview/armor/quantum/purple.png", "ascent": 7, "height": 128, "chars": [ "\u1102" ] },
+    { "type": "bitmap", "file": "customization:preview/armor/quantum/gray.png", "ascent": 7, "height": 128, "chars": [ "\u1103" ] },
+    { "type": "bitmap", "file": "customization:preview/armor/quantum/blue.png", "ascent": 7, "height": 128, "chars": [ "\u1104" ] },
+    { "type": "bitmap", "file": "customization:preview/armor/quantum/yellow.png", "ascent": 7, "height": 128, "chars": [ "\u1105" ] },
+
+    { "type": "bitmap", "file": "customization:preview/armor/quantum/steampunk.png", "ascent": 7, "height": 128, "chars": [ "\u1120" ] },
+    { "type": "bitmap", "file": "customization:preview/armor/quantum/uranium.png", "ascent": 7, "height": 128, "chars": [ "\u1121" ] },
+
+    { "type": "bitmap", "file": "customization:preview/armor/quantum/old.png", "ascent": 7, "height": 128, "chars": [ "\u1130" ] },
+
+
+
+    { "type": "bitmap", "file": "customization:preview/drill/steampunk.png", "ascent": 7, "height": 128, "chars": [ "\u2000" ] },
+    { "type": "bitmap", "file": "customization:preview/drill/uranium.png", "ascent": 7, "height": 128, "chars": [ "\u2001" ] },
+    
+    
+    { "type": "bitmap", "file": "customization:preview/saw/steampunk.png", "ascent": 7, "height": 128, "chars": [ "\u3000" ] },
+    { "type": "bitmap", "file": "customization:preview/saw/uranium.png", "ascent": 7, "height": 128, "chars": [ "\u3001" ] },
+
+
+    { "type": "bitmap", "file": "customization:preview/nano_saber/steampunk.png", "ascent": 7, "height": 128, "chars": [ "\u4000" ] },
+    { "type": "bitmap", "file": "customization:preview/nano_saber/uranium.png", "ascent": 7, "height": 128, "chars": [ "\u4001" ] },
+
+
+    { "type": "bitmap", "file": "customization:preview/vajra/steampunk.png", "ascent": 7, "height": 128, "chars": [ "\u5000" ] },
+    { "type": "bitmap", "file": "customization:preview/vajra/uranium.png", "ascent": 7, "height": 128, "chars": [ "\u5001" ] },
+
+    { "type": "bitmap", "file": "customization:preview/vajra/prototype.png", "ascent": 7, "height": 128, "chars": [ "\u5010" ] }
+  ]
+}

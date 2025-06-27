@@ -1,0 +1,7 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "general:item/backpack_layer_0",
+		"layer1": "general:item/backpack_layer_1"
+	}
+}

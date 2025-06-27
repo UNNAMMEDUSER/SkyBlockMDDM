@@ -1,0 +1,7 @@
+{
+	"credit": "levnemcev",
+	"parent": "electricity:block/thermal_centrifuge",
+	"textures": {
+		"0": "electricity:block/thermal_centrifuge_on"
+	}
+}

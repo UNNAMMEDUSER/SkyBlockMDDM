@@ -1,0 +1,7 @@
+{
+	"credit": "Dareda",
+	"parent": "bees:block/honeycomb_cutter",
+	"textures": {
+		"0": "bees:block/honeycomb_cutter_on"
+	}
+}
