@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/chicken"
+  },
+  "overrides": [
+    { "predicate": { "custom_model_data": 1000000 }, "model": "july1:item/2025/chicken/titanium" },
+    { "predicate": { "custom_model_data": 1000001 }, "model": "july1:item/2025/chicken/titanium_gold" },
+    { "predicate": { "custom_model_data": 1000002 }, "model": "july1:item/2025/chicken/titanium_gold_ice" }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+	"credit": "levnemcev",
+	"parent": "electricity:item/tool/nano_saber",
+	"textures": {
+		"layer0": "customization:item/nano_saber/july1_2025"
+	}
+}

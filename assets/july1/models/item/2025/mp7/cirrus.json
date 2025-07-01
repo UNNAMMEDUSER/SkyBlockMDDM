@@ -1,0 +1,7 @@
+{
+	"credit": "Miwo4ka",
+	"parent": "july1:item/2025/mp7/default",
+	"textures": {
+		"1": "july1:item/2025/mp7/cirrus"
+	}
+}

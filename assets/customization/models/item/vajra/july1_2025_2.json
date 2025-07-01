@@ -1,0 +1,7 @@
+{
+	"credit": "levnemcev",
+	"parent": "electricity:item/tool/vajra",
+	"textures": {
+		"layer0": "customization:item/vajra/july1_2025_2"
+	}
+}
